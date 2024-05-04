@@ -1,0 +1,4796 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<airplane>
+		<stats>
+			<name>Maxair Hummer 150</name>
+			<type>UL</type>
+			<cost>280</cost>
+			<max_speed_knots>39</max_speed_knots>
+			<stall_speed_knots>19</stall_speed_knots>
+			<max_altitude_meters>3050</max_altitude_meters>
+			<max_altitude_feet>10004</max_altitude_feet>
+			<max_range_km>35</max_range_km>
+			<max_range_nm>19</max_range_nm>
+			<capacity>1</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features>
+			<feature>Cockpit</feature>
+		</features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Air Creation Racer</name>
+			<type>UL</type>
+			<cost>400</cost>
+			<max_speed_knots>47</max_speed_knots>
+			<stall_speed_knots>19</stall_speed_knots>
+			<max_altitude_meters>4572</max_altitude_meters>
+			<max_altitude_feet>14996</max_altitude_feet>
+			<max_range_km>48</max_range_km>
+			<max_range_nm>26</max_range_nm>
+			<capacity>2</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features>
+			<feature>Cockpit</feature>
+		</features>
+		<jobs>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>CGS Hawk</name>
+			<type>UL</type>
+			<cost>500</cost>
+			<max_speed_knots>65</max_speed_knots>
+			<stall_speed_knots>30</stall_speed_knots>
+			<max_altitude_meters>3810</max_altitude_meters>
+			<max_altitude_feet>12497</max_altitude_feet>
+			<max_range_km>61</max_range_km>
+			<max_range_nm>33</max_range_nm>
+			<capacity>2</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Spectrum Beaver SS</name>
+			<type>UL</type>
+			<cost>600</cost>
+			<max_speed_knots>74</max_speed_knots>
+			<stall_speed_knots>26</stall_speed_knots>
+			<max_altitude_meters>3657</max_altitude_meters>
+			<max_altitude_feet>11995</max_altitude_feet>
+			<max_range_km>56</max_range_km>
+			<max_range_nm>30</max_range_nm>
+			<capacity>2</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features>
+			<feature>Cockpit</feature>
+		</features>
+		<jobs>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Aviasud AE 206 Mistral</name>
+			<type>UL</type>
+			<cost>750</cost>
+			<max_speed_knots>84</max_speed_knots>
+			<stall_speed_knots>33</stall_speed_knots>
+			<max_altitude_meters>4572</max_altitude_meters>
+			<max_altitude_feet>14996</max_altitude_feet>
+			<max_range_km>65</max_range_km>
+			<max_range_nm>35</max_range_nm>
+			<capacity>2</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Wainfan FMX-4 Facetmobile</name>
+			<type>UL</type>
+			<cost>800</cost>
+			<max_speed_knots>96</max_speed_knots>
+			<stall_speed_knots>34</stall_speed_knots>
+			<max_altitude_meters>5000</max_altitude_meters>
+			<max_altitude_feet>16400</max_altitude_feet>
+			<max_range_km>52</max_range_km>
+			<max_range_nm>28</max_range_nm>
+			<capacity>1</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Remos GX</name>
+			<type>UL</type>
+			<cost>900</cost>
+			<max_speed_knots>107</max_speed_knots>
+			<stall_speed_knots>38</stall_speed_knots>
+			<max_altitude_meters>4572</max_altitude_meters>
+			<max_altitude_feet>14996</max_altitude_feet>
+			<max_range_km>74</max_range_km>
+			<max_range_nm>40</max_range_nm>
+			<capacity>2</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Colomban MC-15 Cri-Cri</name>
+			<type>UL</type>
+			<cost>520</cost>
+			<max_speed_knots>118</max_speed_knots>
+			<stall_speed_knots>39</stall_speed_knots>
+			<max_altitude_meters>3700</max_altitude_meters>
+			<max_altitude_feet>12136</max_altitude_feet>
+			<max_range_km>54</max_range_km>
+			<max_range_nm>29</max_range_nm>
+			<capacity>1</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Pegasus Quantum</name>
+			<type>UL</type>
+			<cost>700</cost>
+			<max_speed_knots>78</max_speed_knots>
+			<stall_speed_knots>33</stall_speed_knots>
+			<max_altitude_meters>4600</max_altitude_meters>
+			<max_altitude_feet>15088</max_altitude_feet>
+			<max_range_km>65</max_range_km>
+			<max_range_nm>35</max_range_nm>
+			<capacity>2</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Davis DA-2A</name>
+			<type>UL</type>
+			<cost>850</cost>
+			<max_speed_knots>100</max_speed_knots>
+			<stall_speed_knots>35</stall_speed_knots>
+			<max_altitude_meters>3000</max_altitude_meters>
+			<max_altitude_feet>9840</max_altitude_feet>
+			<max_range_km>54</max_range_km>
+			<max_range_nm>29</max_range_nm>
+			<capacity>1</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Evektor SportStar</name>
+			<type>UL</type>
+			<cost>1000</cost>
+			<max_speed_knots>150</max_speed_knots>
+			<stall_speed_knots>45</stall_speed_knots>
+			<max_altitude_meters>4720</max_altitude_meters>
+			<max_altitude_feet>15482</max_altitude_feet>
+			<max_range_km>154</max_range_km>
+			<max_range_nm>83</max_range_nm>
+			<capacity>1</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+		</features>
+		<jobs>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>CTRM Eagle 150</name>
+			<type>UL</type>
+			<cost>1350</cost>
+			<max_speed_knots>130</max_speed_knots>
+			<stall_speed_knots>45</stall_speed_knots>
+			<max_altitude_meters>4575</max_altitude_meters>
+			<max_altitude_feet>15006</max_altitude_feet>
+			<max_range_km>85</max_range_km>
+			<max_range_nm>46</max_range_nm>
+			<capacity>2</capacity>
+			<source>Hampden</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Aceair AERIKS A-200</name>
+			<type>UL</type>
+			<cost>1450</cost>
+			<max_speed_knots>151</max_speed_knots>
+			<stall_speed_knots>58</stall_speed_knots>
+			<max_altitude_meters>3660</max_altitude_meters>
+			<max_altitude_feet>12005</max_altitude_feet>
+			<max_range_km>100</max_range_km>
+			<max_range_nm>54</max_range_nm>
+			<capacity>2</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Rutan Quickie Q2</name>
+			<type>UL</type>
+			<cost>1500</cost>
+			<max_speed_knots>160</max_speed_knots>
+			<stall_speed_knots>45</stall_speed_knots>
+			<max_altitude_meters>3657</max_altitude_meters>
+			<max_altitude_feet>11995</max_altitude_feet>
+			<max_range_km>72</max_range_km>
+			<max_range_nm>39</max_range_nm>
+			<capacity>1</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Rutan Long-EZ</name>
+			<type>UL</type>
+			<cost>1650</cost>
+			<max_speed_knots>161</max_speed_knots>
+			<stall_speed_knots>57</stall_speed_knots>
+			<max_altitude_meters>8200</max_altitude_meters>
+			<max_altitude_feet>26896</max_altitude_feet>
+			<max_range_km>187</max_range_km>
+			<max_range_nm>101</max_range_nm>
+			<capacity>1</capacity>
+			<source>Clarence</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>ICON A5</name>
+			<type>UL</type>
+			<cost>1800</cost>
+			<max_speed_knots>105</max_speed_knots>
+			<stall_speed_knots>40</stall_speed_knots>
+			<max_altitude_meters>4572</max_altitude_meters>
+			<max_altitude_feet>14996</max_altitude_feet>
+			<max_range_km>93</max_range_km>
+			<max_range_nm>50</max_range_nm>
+			<capacity>2</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Transavia PL-12 Airtruk</name>
+			<type>UL</type>
+			<cost>1200</cost>
+			<max_speed_knots>112</max_speed_knots>
+			<stall_speed_knots>50</stall_speed_knots>
+			<max_altitude_meters>3200</max_altitude_meters>
+			<max_altitude_feet>10496</max_altitude_feet>
+			<max_range_km>56</max_range_km>
+			<max_range_nm>30</max_range_nm>
+			<capacity>1</capacity>
+			<source>Hampden</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Dyke JD-2 Delta</name>
+			<type>UL</type>
+			<cost>1700</cost>
+			<max_speed_knots>170</max_speed_knots>
+			<stall_speed_knots>61</stall_speed_knots>
+			<max_altitude_meters>4420</max_altitude_meters>
+			<max_altitude_feet>14498</max_altitude_feet>
+			<max_range_km>107</max_range_km>
+			<max_range_nm>58</max_range_nm>
+			<capacity>3</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Bede BD-5B</name>
+			<type>UL</type>
+			<cost>2000</cost>
+			<max_speed_knots>201</max_speed_knots>
+			<stall_speed_knots>50</stall_speed_knots>
+			<max_altitude_meters>4000</max_altitude_meters>
+			<max_altitude_feet>13120</max_altitude_feet>
+			<max_range_km>100</max_range_km>
+			<max_range_nm>54</max_range_nm>
+			<capacity>1</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>LH Aviation LH-10 Ellipse</name>
+			<type>UL</type>
+			<cost>2050</cost>
+			<max_speed_knots>200</max_speed_knots>
+			<stall_speed_knots>57</stall_speed_knots>
+			<max_altitude_meters>4200</max_altitude_meters>
+			<max_altitude_feet>13776</max_altitude_feet>
+			<max_range_km>107</max_range_km>
+			<max_range_nm>58</max_range_nm>
+			<capacity>2</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Standard J</name>
+			<type>SE</type>
+			<cost>500</cost>
+			<max_speed_knots>60</max_speed_knots>
+			<stall_speed_knots>32</stall_speed_knots>
+			<max_altitude_meters>4500</max_altitude_meters>
+			<max_altitude_feet>14760</max_altitude_feet>
+			<max_range_km>56</max_range_km>
+			<max_range_nm>30</max_range_nm>
+			<capacity>2</capacity>
+			<source>Gaston</source>
+		</stats>
+		<features>
+			<feature>Cockpit</feature>
+		</features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Piper J-3 Cub</name>
+			<type>SE</type>
+			<cost>900</cost>
+			<max_speed_knots>76</max_speed_knots>
+			<stall_speed_knots>33</stall_speed_knots>
+			<max_altitude_meters>5200</max_altitude_meters>
+			<max_altitude_feet>17056</max_altitude_feet>
+			<max_range_km>43</max_range_km>
+			<max_range_nm>23</max_range_nm>
+			<capacity>2</capacity>
+			<source>Lynwood Mun.</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>De Havilland DH.87 Hornet Moth</name>
+			<type>SE</type>
+			<cost>1000</cost>
+			<max_speed_knots>108</max_speed_knots>
+			<stall_speed_knots>35</stall_speed_knots>
+			<max_altitude_meters>4500</max_altitude_meters>
+			<max_altitude_feet>14760</max_altitude_feet>
+			<max_range_km>109</max_range_km>
+			<max_range_nm>59</max_range_nm>
+			<capacity>2</capacity>
+			<source>Harden</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Diamond DA20 Eclipse</name>
+			<type>SE</type>
+			<cost>1050</cost>
+			<max_speed_knots>130</max_speed_knots>
+			<stall_speed_knots>45</stall_speed_knots>
+			<max_altitude_meters>4000</max_altitude_meters>
+			<max_altitude_feet>13120</max_altitude_feet>
+			<max_range_km>85</max_range_km>
+			<max_range_nm>46</max_range_nm>
+			<capacity>2</capacity>
+			<source>New England.</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>American Champion 8GCBC Scout</name>
+			<type>SE</type>
+			<cost>1200</cost>
+			<max_speed_knots>120</max_speed_knots>
+			<stall_speed_knots>43</stall_speed_knots>
+			<max_altitude_meters>5200</max_altitude_meters>
+			<max_altitude_feet>17056</max_altitude_feet>
+			<max_range_km>115</max_range_km>
+			<max_range_nm>62</max_range_nm>
+			<capacity>2</capacity>
+			<source>Webley</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>American Champion 8GCBC Floatplane</name>
+			<type>SE</type>
+			<cost>n/a</cost>
+			<max_speed_knots>120</max_speed_knots>
+			<stall_speed_knots>45</stall_speed_knots>
+			<max_altitude_meters>5200</max_altitude_meters>
+			<max_altitude_feet>17056</max_altitude_feet>
+			<max_range_km>113</max_range_km>
+			<max_range_nm>61</max_range_nm>
+			<capacity>2</capacity>
+			<source>Convertible</source>
+		</stats>
+		<features>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Cessna 152</name>
+			<type>SE</type>
+			<cost>1250</cost>
+			<max_speed_knots>109</max_speed_knots>
+			<stall_speed_knots>43</stall_speed_knots>
+			<max_altitude_meters>4000</max_altitude_meters>
+			<max_altitude_feet>13120</max_altitude_feet>
+			<max_range_km>87</max_range_km>
+			<max_range_nm>47</max_range_nm>
+			<capacity>3</capacity>
+			<source>Gaston</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Cessna 172</name>
+			<type>SE</type>
+			<cost>1400</cost>
+			<max_speed_knots>122</max_speed_knots>
+			<stall_speed_knots>50</stall_speed_knots>
+			<max_altitude_meters>4100</max_altitude_meters>
+			<max_altitude_feet>13448</max_altitude_feet>
+			<max_range_km>93</max_range_km>
+			<max_range_nm>50</max_range_nm>
+			<capacity>4</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Cessna R182RG</name>
+			<type>SE</type>
+			<cost>n/a</cost>
+			<max_speed_knots>164</max_speed_knots>
+			<stall_speed_knots>50</stall_speed_knots>
+			<max_altitude_meters>4360</max_altitude_meters>
+			<max_altitude_feet>14301</max_altitude_feet>
+			<max_range_km>102</max_range_km>
+			<max_range_nm>55</max_range_nm>
+			<capacity>4</capacity>
+			<source>Craftable</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Piper PA-28R Arrow</name>
+			<type>SE</type>
+			<cost>1500</cost>
+			<max_speed_knots>123</max_speed_knots>
+			<stall_speed_knots>47</stall_speed_knots>
+			<max_altitude_meters>4400</max_altitude_meters>
+			<max_altitude_feet>14432</max_altitude_feet>
+			<max_range_km>106</max_range_km>
+			<max_range_nm>57</max_range_nm>
+			<capacity>4</capacity>
+			<source>Lynwood Mun.</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Grumman AA-5B Tiger</name>
+			<type>SE</type>
+			<cost>1550</cost>
+			<max_speed_knots>143</max_speed_knots>
+			<stall_speed_knots>53</stall_speed_knots>
+			<max_altitude_meters>4200</max_altitude_meters>
+			<max_altitude_feet>13776</max_altitude_feet>
+			<max_range_km>100</max_range_km>
+			<max_range_nm>54</max_range_nm>
+			<capacity>4</capacity>
+			<source>Hampden</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Piper PA-38-112 Tomahawk</name>
+			<type>SE</type>
+			<cost>1650</cost>
+			<max_speed_knots>109</max_speed_knots>
+			<stall_speed_knots>49</stall_speed_knots>
+			<max_altitude_meters>3960</max_altitude_meters>
+			<max_altitude_feet>12989</max_altitude_feet>
+			<max_range_km>81</max_range_km>
+			<max_range_nm>44</max_range_nm>
+			<capacity>2</capacity>
+			<source>Lynwood Mun.</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Maule M-5</name>
+			<type>SE</type>
+			<cost>1700</cost>
+			<max_speed_knots>132</max_speed_knots>
+			<stall_speed_knots>32</stall_speed_knots>
+			<max_altitude_meters>6100</max_altitude_meters>
+			<max_altitude_feet>20008</max_altitude_feet>
+			<max_range_km>80</max_range_km>
+			<max_range_nm>43</max_range_nm>
+			<capacity>4</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Piper PA-24-180 Comanche</name>
+			<type>SE</type>
+			<cost>1800</cost>
+			<max_speed_knots>145</max_speed_knots>
+			<stall_speed_knots>55</stall_speed_knots>
+			<max_altitude_meters>5638</max_altitude_meters>
+			<max_altitude_feet>18493</max_altitude_feet>
+			<max_range_km>104</max_range_km>
+			<max_range_nm>56</max_range_nm>
+			<capacity>4</capacity>
+			<source>Lynwood Mun.</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Sukhoi Su-31</name>
+			<type>SE</type>
+			<cost>1800</cost>
+			<max_speed_knots>200</max_speed_knots>
+			<stall_speed_knots>57</stall_speed_knots>
+			<max_altitude_meters>3650</max_altitude_meters>
+			<max_altitude_feet>11972</max_altitude_feet>
+			<max_range_km>72</max_range_km>
+			<max_range_nm>39</max_range_nm>
+			<capacity>1</capacity>
+			<source>Fiskar</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Cirrus SR22</name>
+			<type>SE</type>
+			<cost>1900</cost>
+			<max_speed_knots>190</max_speed_knots>
+			<stall_speed_knots>50</stall_speed_knots>
+			<max_altitude_meters>5300</max_altitude_meters>
+			<max_altitude_feet>17384</max_altitude_feet>
+			<max_range_km>133</max_range_km>
+			<max_range_nm>72</max_range_nm>
+			<capacity>4</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>De Havilland Canada DHC-2 Beaver</name>
+			<type>SE</type>
+			<cost>1950</cost>
+			<max_speed_knots>137</max_speed_knots>
+			<stall_speed_knots>39</stall_speed_knots>
+			<max_altitude_meters>5500</max_altitude_meters>
+			<max_altitude_feet>18040</max_altitude_feet>
+			<max_range_km>69</max_range_km>
+			<max_range_nm>37</max_range_nm>
+			<capacity>6</capacity>
+			<source>Webley</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>De Havilland Canada DHC-2 Floatplane</name>
+			<type>SE</type>
+			<cost>n/a</cost>
+			<max_speed_knots>137</max_speed_knots>
+			<stall_speed_knots>40</stall_speed_knots>
+			<max_altitude_meters>5500</max_altitude_meters>
+			<max_altitude_feet>18040</max_altitude_feet>
+			<max_range_km>67</max_range_km>
+			<max_range_nm>36</max_range_nm>
+			<capacity>6</capacity>
+			<source>Convertible</source>
+		</stats>
+		<features>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Cessna 188</name>
+			<type>SE</type>
+			<cost>2000</cost>
+			<max_speed_knots>105</max_speed_knots>
+			<stall_speed_knots>50</stall_speed_knots>
+			<max_altitude_meters>3400</max_altitude_meters>
+			<max_altitude_feet>11152</max_altitude_feet>
+			<max_range_km>56</max_range_km>
+			<max_range_nm>30</max_range_nm>
+			<capacity>1</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Kawanishi E7K2</name>
+			<type>SE</type>
+			<cost>2100</cost>
+			<max_speed_knots>149</max_speed_knots>
+			<stall_speed_knots>40</stall_speed_knots>
+			<max_altitude_meters>7060</max_altitude_meters>
+			<max_altitude_feet>23157</max_altitude_feet>
+			<max_range_km>141</max_range_km>
+			<max_range_nm>76</max_range_nm>
+			<capacity>3</capacity>
+			<source>Tousunai</source>
+		</stats>
+		<features>
+			<feature>Cockpit</feature>
+			<feature>Sea plane</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>RFB Fantrainer</name>
+			<type>SE</type>
+			<cost>2100</cost>
+			<max_speed_knots>225</max_speed_knots>
+			<stall_speed_knots>61</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>87</max_range_km>
+			<max_range_nm>47</max_range_nm>
+			<capacity>2</capacity>
+			<source>Tierdam</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Mooney M20J</name>
+			<type>SE</type>
+			<cost>2200</cost>
+			<max_speed_knots>175</max_speed_knots>
+			<stall_speed_knots>53</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>122</max_range_km>
+			<max_range_nm>66</max_range_nm>
+			<capacity>4</capacity>
+			<source>Lynwood Mun.</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Mooney M20TN Acclaim</name>
+			<type>SE</type>
+			<cost>n/a</cost>
+			<max_speed_knots>242</max_speed_knots>
+			<stall_speed_knots>59</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>122</max_range_km>
+			<max_range_nm>66</max_range_nm>
+			<capacity>4</capacity>
+			<source>Craftable</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Lockheed Model 9 Orion</name>
+			<type>SE</type>
+			<cost>2400</cost>
+			<max_speed_knots>190</max_speed_knots>
+			<stall_speed_knots>45</stall_speed_knots>
+			<max_altitude_meters>6700</max_altitude_meters>
+			<max_altitude_feet>21976</max_altitude_feet>
+			<max_range_km>85</max_range_km>
+			<max_range_nm>46</max_range_nm>
+			<capacity>6</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>PAC Cresco 08-600</name>
+			<type>SE</type>
+			<cost>2550</cost>
+			<max_speed_knots>148</max_speed_knots>
+			<stall_speed_knots>52</stall_speed_knots>
+			<max_altitude_meters>5500</max_altitude_meters>
+			<max_altitude_feet>18040</max_altitude_feet>
+			<max_range_km>76</max_range_km>
+			<max_range_nm>41</max_range_nm>
+			<capacity>7</capacity>
+			<source>New England.</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Piper PA-46-M350</name>
+			<type>SE</type>
+			<cost>2650</cost>
+			<max_speed_knots>213</max_speed_knots>
+			<stall_speed_knots>69</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>157</max_range_km>
+			<max_range_nm>85</max_range_nm>
+			<capacity>6</capacity>
+			<source>Ondeloz</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Grob G115e Tutor</name>
+			<type>SE</type>
+			<cost>2800</cost>
+			<max_speed_knots>185</max_speed_knots>
+			<stall_speed_knots>51</stall_speed_knots>
+			<max_altitude_meters>3048</max_altitude_meters>
+			<max_altitude_feet>9998</max_altitude_feet>
+			<max_range_km>107</max_range_km>
+			<max_range_nm>58</max_range_nm>
+			<capacity>2</capacity>
+			<source>Gaston</source>
+		</stats>
+		<features>
+			<feature>Cockpit</feature>
+		</features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Quest Kodiak</name>
+			<type>SE</type>
+			<cost>2800</cost>
+			<max_speed_knots>183</max_speed_knots>
+			<stall_speed_knots>60</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>113</max_range_km>
+			<max_range_nm>61</max_range_nm>
+			<capacity>8</capacity>
+			<source>Clarence</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>sky dive wip</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Air Tractor AT-602</name>
+			<type>SE</type>
+			<cost>3200</cost>
+			<max_speed_knots>172</max_speed_knots>
+			<stall_speed_knots>76</stall_speed_knots>
+			<max_altitude_meters>4000</max_altitude_meters>
+			<max_altitude_feet>13120</max_altitude_feet>
+			<max_range_km>74</max_range_km>
+			<max_range_nm>40</max_range_nm>
+			<capacity>1</capacity>
+			<source>Hampden</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Diamond DART-550</name>
+			<type>SE</type>
+			<cost>3300</cost>
+			<max_speed_knots>250</max_speed_knots>
+			<stall_speed_knots>60</stall_speed_knots>
+			<max_altitude_meters>7010</max_altitude_meters>
+			<max_altitude_feet>22993</max_altitude_feet>
+			<max_range_km>170</max_range_km>
+			<max_range_nm>92</max_range_nm>
+			<capacity>2</capacity>
+			<source>New England.</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Pilatus PC-6 B2</name>
+			<type>SE</type>
+			<cost>3400</cost>
+			<max_speed_knots>151</max_speed_knots>
+			<stall_speed_knots>52</stall_speed_knots>
+			<max_altitude_meters>8200</max_altitude_meters>
+			<max_altitude_feet>26896</max_altitude_feet>
+			<max_range_km>109</max_range_km>
+			<max_range_nm>59</max_range_nm>
+			<capacity>10</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>sky dive wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Cessna 208B Caravan</name>
+			<type>SE</type>
+			<cost>3800</cost>
+			<max_speed_knots>186</max_speed_knots>
+			<stall_speed_knots>61</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>122</max_range_km>
+			<max_range_nm>66</max_range_nm>
+			<capacity>10</capacity>
+			<source>New England.</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>sky dive wip</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Antonov An-2</name>
+			<type>SE</type>
+			<cost>4000</cost>
+			<max_speed_knots>139</max_speed_knots>
+			<stall_speed_knots>28</stall_speed_knots>
+			<max_altitude_meters>4500</max_altitude_meters>
+			<max_altitude_feet>14760</max_altitude_feet>
+			<max_range_km>63</max_range_km>
+			<max_range_nm>34</max_range_nm>
+			<capacity>15</capacity>
+			<source>Fiskar</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Beechcraft T-6 Texan II</name>
+			<type>SE</type>
+			<cost>4200</cost>
+			<max_speed_knots>316</max_speed_knots>
+			<stall_speed_knots>74</stall_speed_knots>
+			<max_altitude_meters>9400</max_altitude_meters>
+			<max_altitude_feet>30832</max_altitude_feet>
+			<max_range_km>120</max_range_km>
+			<max_range_nm>65</max_range_nm>
+			<capacity>2</capacity>
+			<source>Norman</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Pilatus PC-12</name>
+			<type>SE</type>
+			<cost>4200</cost>
+			<max_speed_knots>285</max_speed_knots>
+			<stall_speed_knots>68</stall_speed_knots>
+			<max_altitude_meters>9144</max_altitude_meters>
+			<max_altitude_feet>29992</max_altitude_feet>
+			<max_range_km>143</max_range_km>
+			<max_range_nm>77</max_range_nm>
+			<capacity>8</capacity>
+			<source>Clarence</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Pilatus PC-21</name>
+			<type>SE</type>
+			<cost>4800</cost>
+			<max_speed_knots>370</max_speed_knots>
+			<stall_speed_knots>89</stall_speed_knots>
+			<max_altitude_meters>11580</max_altitude_meters>
+			<max_altitude_feet>37983</max_altitude_feet>
+			<max_range_km>104</max_range_km>
+			<max_range_nm>56</max_range_nm>
+			<capacity>2</capacity>
+			<source>Auchenburgh</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Ilyushin Il-2M3 Shturmovik</name>
+			<type>SE</type>
+			<cost>6000</cost>
+			<max_speed_knots>224</max_speed_knots>
+			<stall_speed_knots>60</stall_speed_knots>
+			<max_altitude_meters>6360</max_altitude_meters>
+			<max_altitude_feet>20861</max_altitude_feet>
+			<max_range_km>78</max_range_km>
+			<max_range_nm>42</max_range_nm>
+			<capacity>2</capacity>
+			<source>Riskhorosh</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Edgley EA-7 Optica</name>
+			<type>SE</type>
+			<cost>1100</cost>
+			<max_speed_knots>115</max_speed_knots>
+			<stall_speed_knots>38</stall_speed_knots>
+			<max_altitude_meters>4275</max_altitude_meters>
+			<max_altitude_feet>14022</max_altitude_feet>
+			<max_range_km>76</max_range_km>
+			<max_range_nm>41</max_range_nm>
+			<capacity>2</capacity>
+			<source>Ardmore</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>IST XL-15 Tagak</name>
+			<type>SE</type>
+			<cost>1300</cost>
+			<max_speed_knots>110</max_speed_knots>
+			<stall_speed_knots>40</stall_speed_knots>
+			<max_altitude_meters>4000</max_altitude_meters>
+			<max_altitude_feet>13120</max_altitude_feet>
+			<max_range_km>67</max_range_km>
+			<max_range_nm>36</max_range_nm>
+			<capacity>4</capacity>
+			<source>Kapa</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Tecnam P2010</name>
+			<type>SE</type>
+			<cost>1750</cost>
+			<max_speed_knots>140</max_speed_knots>
+			<stall_speed_knots>52</stall_speed_knots>
+			<max_altitude_meters>4572</max_altitude_meters>
+			<max_altitude_feet>14997</max_altitude_feet>
+			<max_range_km>96</max_range_km>
+			<max_range_nm>52</max_range_nm>
+			<capacity>4</capacity>
+			<source>New England.</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Curtiss F9C Sparrowhawk</name>
+			<type>SE</type>
+			<cost>1800</cost>
+			<max_speed_knots>154</max_speed_knots>
+			<stall_speed_knots>50</stall_speed_knots>
+			<max_altitude_meters>5900</max_altitude_meters>
+			<max_altitude_feet>19352</max_altitude_feet>
+			<max_range_km>50</max_range_km>
+			<max_range_nm>27</max_range_nm>
+			<capacity>1</capacity>
+			<source>Norman</source>
+		</stats>
+		<features>
+			<feature>Cockpit</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Maule MX-7</name>
+			<type>SE</type>
+			<cost>1900</cost>
+			<max_speed_knots>160</max_speed_knots>
+			<stall_speed_knots>34</stall_speed_knots>
+			<max_altitude_meters>6500</max_altitude_meters>
+			<max_altitude_feet>21320</max_altitude_feet>
+			<max_range_km>89</max_range_km>
+			<max_range_nm>48</max_range_nm>
+			<capacity>4</capacity>
+			<source>Doura</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Planet Satellite</name>
+			<type>SE</type>
+			<cost>1900</cost>
+			<max_speed_knots>181</max_speed_knots>
+			<stall_speed_knots>54</stall_speed_knots>
+			<max_altitude_meters>6700</max_altitude_meters>
+			<max_altitude_feet>21976</max_altitude_feet>
+			<max_range_km>85</max_range_km>
+			<max_range_nm>46</max_range_nm>
+			<capacity>4</capacity>
+			<source>Cheshire</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>KAI KC-100 Naraon</name>
+			<type>SE</type>
+			<cost>2050</cost>
+			<max_speed_knots>210</max_speed_knots>
+			<stall_speed_knots>58</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>144</max_range_km>
+			<max_range_nm>78</max_range_nm>
+			<capacity>4</capacity>
+			<source>Jepo</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Extra EA-330SC</name>
+			<type>SE</type>
+			<cost>2200</cost>
+			<max_speed_knots>220</max_speed_knots>
+			<stall_speed_knots>55</stall_speed_knots>
+			<max_altitude_meters>3700</max_altitude_meters>
+			<max_altitude_feet>12136</max_altitude_feet>
+			<max_range_km>69</max_range_km>
+			<max_range_nm>37</max_range_nm>
+			<capacity>1</capacity>
+			<source>Clarence</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Cessna 208A Amphibian</name>
+			<type>SE</type>
+			<cost>3000</cost>
+			<max_speed_knots>182</max_speed_knots>
+			<stall_speed_knots>63</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>122</max_range_km>
+			<max_range_nm>66</max_range_nm>
+			<capacity>8</capacity>
+			<source>New England.</source>
+		</stats>
+		<features>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Polikarpov I-16 Type 24 Ishak</name>
+			<type>SE</type>
+			<cost>3000</cost>
+			<max_speed_knots>246</max_speed_knots>
+			<stall_speed_knots>80</stall_speed_knots>
+			<max_altitude_meters>9700</max_altitude_meters>
+			<max_altitude_feet>31816</max_altitude_feet>
+			<max_range_km>67</max_range_km>
+			<max_range_nm>36</max_range_nm>
+			<capacity>1</capacity>
+			<source>Riskhorosh</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Cockpit</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Pilatus PC-6 Amphibian</name>
+			<type>SE</type>
+			<cost>3200</cost>
+			<max_speed_knots>145</max_speed_knots>
+			<stall_speed_knots>58</stall_speed_knots>
+			<max_altitude_meters>8200</max_altitude_meters>
+			<max_altitude_feet>26896</max_altitude_feet>
+			<max_range_km>109</max_range_km>
+			<max_range_nm>59</max_range_nm>
+			<capacity>10</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>MSAR</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>North American T-6G Texan</name>
+			<type>SE</type>
+			<cost>3600</cost>
+			<max_speed_knots>182</max_speed_knots>
+			<stall_speed_knots>49</stall_speed_knots>
+			<max_altitude_meters>6553</max_altitude_meters>
+			<max_altitude_feet>21494</max_altitude_feet>
+			<max_range_km>94</max_range_km>
+			<max_range_nm>51</max_range_nm>
+			<capacity>2</capacity>
+			<source>Lionham</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Daher TBM-900</name>
+			<type>SE</type>
+			<cost>3700</cost>
+			<max_speed_knots>330</max_speed_knots>
+			<stall_speed_knots>62</stall_speed_knots>
+			<max_altitude_meters>9550</max_altitude_meters>
+			<max_altitude_feet>31324</max_altitude_feet>
+			<max_range_km>139</max_range_km>
+			<max_range_nm>75</max_range_nm>
+			<capacity>6</capacity>
+			<source>Rawaki</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>PAC P-750 XSTOL</name>
+			<type>SE</type>
+			<cost>4200</cost>
+			<max_speed_knots>161</max_speed_knots>
+			<stall_speed_knots>52</stall_speed_knots>
+			<max_altitude_meters>6096</max_altitude_meters>
+			<max_altitude_feet>19995</max_altitude_feet>
+			<max_range_km>144</max_range_km>
+			<max_range_nm>78</max_range_nm>
+			<capacity>8</capacity>
+			<source>New England.</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>sky dive wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Embraer EMB 314 Super Tucano</name>
+			<type>SE</type>
+			<cost>6500</cost>
+			<max_speed_knots>315</max_speed_knots>
+			<stall_speed_knots>80</stall_speed_knots>
+			<max_altitude_meters>10668</max_altitude_meters>
+			<max_altitude_feet>34992</max_altitude_feet>
+			<max_range_km>172</max_range_km>
+			<max_range_nm>93</max_range_nm>
+			<capacity>2</capacity>
+			<source>Hipe</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Fokker D.VII</name>
+			<type>SE</type>
+			<cost>1750</cost>
+			<max_speed_knots>108</max_speed_knots>
+			<stall_speed_knots>29</stall_speed_knots>
+			<max_altitude_meters>6000</max_altitude_meters>
+			<max_altitude_feet>19680</max_altitude_feet>
+			<max_range_km>33</max_range_km>
+			<max_range_nm>18</max_range_nm>
+			<capacity>1</capacity>
+			<source>Sandris</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Cockpit</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Mitsubishi A6M3 Zero</name>
+			<type>SE</type>
+			<cost>4500</cost>
+			<max_speed_knots>262</max_speed_knots>
+			<stall_speed_knots>69</stall_speed_knots>
+			<max_altitude_meters>10000</max_altitude_meters>
+			<max_altitude_feet>32800</max_altitude_feet>
+			<max_range_km>111</max_range_km>
+			<max_range_nm>60</max_range_nm>
+			<capacity>1</capacity>
+			<source>Tousunai</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Military</feature>
+			<feature>Tail hook</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Fiat G.55 Centauro</name>
+			<type>SE</type>
+			<cost>5800</cost>
+			<max_speed_knots>336</max_speed_knots>
+			<stall_speed_knots>71</stall_speed_knots>
+			<max_altitude_meters>12750</max_altitude_meters>
+			<max_altitude_feet>41820</max_altitude_feet>
+			<max_range_km>69</max_range_km>
+			<max_range_nm>37</max_range_nm>
+			<capacity>1</capacity>
+			<source>Seilam</source>
+		</stats>
+		<features>
+			<feature>Cockpit</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Heinkel He 100 D-1</name>
+			<type>SE</type>
+			<cost>6100</cost>
+			<max_speed_knots>360</max_speed_knots>
+			<stall_speed_knots>75</stall_speed_knots>
+			<max_altitude_meters>11000</max_altitude_meters>
+			<max_altitude_feet>36080</max_altitude_feet>
+			<max_range_km>85</max_range_km>
+			<max_range_nm>46</max_range_nm>
+			<capacity>1</capacity>
+			<source>Ebenrau</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Vought F4U-1D Corsair</name>
+			<type>SE</type>
+			<cost>6400</cost>
+			<max_speed_knots>364</max_speed_knots>
+			<stall_speed_knots>64</stall_speed_knots>
+			<max_altitude_meters>11795</max_altitude_meters>
+			<max_altitude_feet>38688</max_altitude_feet>
+			<max_range_km>117</max_range_km>
+			<max_range_nm>63</max_range_nm>
+			<capacity>1</capacity>
+			<source>Castle Atoll</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+			<feature>Tail hook</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Goodyear F2G-2 Super Corsair</name>
+			<type>SE</type>
+			<cost>n/a</cost>
+			<max_speed_knots>374</max_speed_knots>
+			<stall_speed_knots>70</stall_speed_knots>
+			<max_altitude_meters>11800</max_altitude_meters>
+			<max_altitude_feet>38704</max_altitude_feet>
+			<max_range_km>185</max_range_km>
+			<max_range_nm>100</max_range_nm>
+			<capacity>1</capacity>
+			<source>Convertible</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Military</feature>
+			<feature>Tail hook</feature>
+		</features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Messerschmitt Bf-109 G-6</name>
+			<type>SE</type>
+			<cost>7200</cost>
+			<max_speed_knots>347</max_speed_knots>
+			<stall_speed_knots>52</stall_speed_knots>
+			<max_altitude_meters>12000</max_altitude_meters>
+			<max_altitude_feet>39360</max_altitude_feet>
+			<max_range_km>93</max_range_km>
+			<max_range_nm>50</max_range_nm>
+			<capacity>1</capacity>
+			<source>Sandris</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Supermarine Seafire FR Mk 47</name>
+			<type>SE</type>
+			<cost>7300</cost>
+			<max_speed_knots>312</max_speed_knots>
+			<stall_speed_knots>65</stall_speed_knots>
+			<max_altitude_meters>11000</max_altitude_meters>
+			<max_altitude_feet>36080</max_altitude_feet>
+			<max_range_km>70</max_range_km>
+			<max_range_nm>38</max_range_nm>
+			<capacity>1</capacity>
+			<source>Lionham</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Military</feature>
+			<feature>Tail hook</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Stipa-Caproni</name>
+			<type>SE</type>
+			<cost>1900</cost>
+			<max_speed_knots>72</max_speed_knots>
+			<stall_speed_knots>36</stall_speed_knots>
+			<max_altitude_meters>3700</max_altitude_meters>
+			<max_altitude_feet>12136</max_altitude_feet>
+			<max_range_km>135</max_range_km>
+			<max_range_nm>73</max_range_nm>
+			<capacity>2</capacity>
+			<source>Seilam</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Cockpit</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Fokker Dr.I</name>
+			<type>SE</type>
+			<cost>2000</cost>
+			<max_speed_knots>98</max_speed_knots>
+			<stall_speed_knots>39</stall_speed_knots>
+			<max_altitude_meters>6100</max_altitude_meters>
+			<max_altitude_feet>20008</max_altitude_feet>
+			<max_range_km>43</max_range_km>
+			<max_range_nm>23</max_range_nm>
+			<capacity>1</capacity>
+			<source>Sandris</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Cockpit</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>General Atomics MQ-1B Predator</name>
+			<type>SE</type>
+			<cost>5700</cost>
+			<max_speed_knots>117</max_speed_knots>
+			<stall_speed_knots>54</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>369</max_range_km>
+			<max_range_nm>199</max_range_nm>
+			<capacity>0</capacity>
+			<source>Lynwood JAFB</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+			<job>Racing</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>General Atomics MQ-9 Reaper</name>
+			<type>SE</type>
+			<cost>n/a</cost>
+			<max_speed_knots>260</max_speed_knots>
+			<stall_speed_knots>54</stall_speed_knots>
+			<max_altitude_meters>15420</max_altitude_meters>
+			<max_altitude_feet>50578</max_altitude_feet>
+			<max_range_km>485</max_range_km>
+			<max_range_nm>262</max_range_nm>
+			<capacity>0</capacity>
+			<source>Convertible</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+			<job>Racing</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Macchi M.C.72</name>
+			<type>SE</type>
+			<cost>8200</cost>
+			<max_speed_knots>383</max_speed_knots>
+			<stall_speed_knots>50</stall_speed_knots>
+			<max_altitude_meters>6000</max_altitude_meters>
+			<max_altitude_feet>19680</max_altitude_feet>
+			<max_range_km>89</max_range_km>
+			<max_range_nm>48</max_range_nm>
+			<capacity>1</capacity>
+			<source>Pembroke</source>
+		</stats>
+		<features>
+			<feature>Cockpit</feature>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Yokosuka R2Y1 Keiun</name>
+			<type>SE</type>
+			<cost>8700</cost>
+			<max_speed_knots>388</max_speed_knots>
+			<stall_speed_knots>90</stall_speed_knots>
+			<max_altitude_meters>11700</max_altitude_meters>
+			<max_altitude_feet>38376</max_altitude_feet>
+			<max_range_km>204</max_range_km>
+			<max_range_nm>110</max_range_nm>
+			<capacity>2</capacity>
+			<source>Kitesboro</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Kyushu J7W Shinden</name>
+			<type>SE</type>
+			<cost>8800</cost>
+			<max_speed_knots>400</max_speed_knots>
+			<stall_speed_knots>90</stall_speed_knots>
+			<max_altitude_meters>12000</max_altitude_meters>
+			<max_altitude_feet>39360</max_altitude_feet>
+			<max_range_km>76</max_range_km>
+			<max_range_nm>41</max_range_nm>
+			<capacity>1</capacity>
+			<source>Tousunai</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Focke-Wulf Ta 152H-1</name>
+			<type>SE</type>
+			<cost>9500</cost>
+			<max_speed_knots>410</max_speed_knots>
+			<stall_speed_knots>77</stall_speed_knots>
+			<max_altitude_meters>15100</max_altitude_meters>
+			<max_altitude_feet>49528</max_altitude_feet>
+			<max_range_km>135</max_range_km>
+			<max_range_nm>73</max_range_nm>
+			<capacity>1</capacity>
+			<source>Sandris</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Spirit of St. Louis</name>
+			<type>SE</type>
+			<cost>3500</cost>
+			<max_speed_knots>116</max_speed_knots>
+			<stall_speed_knots>63</stall_speed_knots>
+			<max_altitude_meters>5000</max_altitude_meters>
+			<max_altitude_feet>16400</max_altitude_feet>
+			<max_range_km>306</max_range_km>
+			<max_range_nm>165</max_range_nm>
+			<capacity>1</capacity>
+			<source>Harden</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Antonov A-40</name>
+			<type>SE</type>
+			<cost>n/a</cost>
+			<max_speed_knots>100</max_speed_knots>
+			<stall_speed_knots>60</stall_speed_knots>
+			<max_altitude_meters>1500</max_altitude_meters>
+			<max_altitude_feet>4920</max_altitude_feet>
+			<max_range_km>100</max_range_km>
+			<max_range_nm>54</max_range_nm>
+			<capacity>1</capacity>
+			<source>Craftable</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Bartini M-RD</name>
+			<type>SE</type>
+			<cost>21000</cost>
+			<max_speed_knots>375</max_speed_knots>
+			<stall_speed_knots>85</stall_speed_knots>
+			<max_altitude_meters>10000</max_altitude_meters>
+			<max_altitude_feet>32800</max_altitude_feet>
+			<max_range_km>500</max_range_km>
+			<max_range_nm>270</max_range_nm>
+			<capacity>2</capacity>
+			<source>Northiachev</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Tecnam P2006T</name>
+			<type>ME</type>
+			<cost>2200</cost>
+			<max_speed_knots>155</max_speed_knots>
+			<stall_speed_knots>55</stall_speed_knots>
+			<max_altitude_meters>4300</max_altitude_meters>
+			<max_altitude_feet>14104</max_altitude_feet>
+			<max_range_km>96</max_range_km>
+			<max_range_nm>52</max_range_nm>
+			<capacity>4</capacity>
+			<source>New England.</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Cessna 337 Skymaster</name>
+			<type>ME</type>
+			<cost>2700</cost>
+			<max_speed_knots>173</max_speed_knots>
+			<stall_speed_knots>60</stall_speed_knots>
+			<max_altitude_meters>5900</max_altitude_meters>
+			<max_altitude_feet>19352</max_altitude_feet>
+			<max_range_km>115</max_range_km>
+			<max_range_nm>62</max_range_nm>
+			<capacity>6</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>De Havilland Australia DHA-3 Drover</name>
+			<type>ME</type>
+			<cost>2700</cost>
+			<max_speed_knots>167</max_speed_knots>
+			<stall_speed_knots>56</stall_speed_knots>
+			<max_altitude_meters>4600</max_altitude_meters>
+			<max_altitude_feet>15088</max_altitude_feet>
+			<max_range_km>78</max_range_km>
+			<max_range_nm>42</max_range_nm>
+			<capacity>8</capacity>
+			<source>Eagle Island</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Lockheed L-12 Electra Junior</name>
+			<type>ME</type>
+			<cost>2800</cost>
+			<max_speed_knots>196</max_speed_knots>
+			<stall_speed_knots>56</stall_speed_knots>
+			<max_altitude_meters>7000</max_altitude_meters>
+			<max_altitude_feet>22960</max_altitude_feet>
+			<max_range_km>98</max_range_km>
+			<max_range_nm>53</max_range_nm>
+			<capacity>8</capacity>
+			<source>Rawaki</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Beechcraft Baron 58</name>
+			<type>ME</type>
+			<cost>3000</cost>
+			<max_speed_knots>205</max_speed_knots>
+			<stall_speed_knots>73</stall_speed_knots>
+			<max_altitude_meters>6000</max_altitude_meters>
+			<max_altitude_feet>19680</max_altitude_feet>
+			<max_range_km>106</max_range_km>
+			<max_range_nm>57</max_range_nm>
+			<capacity>6</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Ford Trimotor</name>
+			<type>ME</type>
+			<cost>3500</cost>
+			<max_speed_knots>115</max_speed_knots>
+			<stall_speed_knots>50</stall_speed_knots>
+			<max_altitude_meters>5000</max_altitude_meters>
+			<max_altitude_feet>16400</max_altitude_feet>
+			<max_range_km>80</max_range_km>
+			<max_range_nm>43</max_range_nm>
+			<capacity>11</capacity>
+			<source>Pavlada</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Mitsubishi Mu-2B</name>
+			<type>ME</type>
+			<cost>3800</cost>
+			<max_speed_knots>270</max_speed_knots>
+			<stall_speed_knots>100</stall_speed_knots>
+			<max_altitude_meters>6096</max_altitude_meters>
+			<max_altitude_feet>19995</max_altitude_feet>
+			<max_range_km>150</max_range_km>
+			<max_range_nm>81</max_range_nm>
+			<capacity>6</capacity>
+			<source>Kashio</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Britten-Norman BN-2A Islander</name>
+			<type>ME</type>
+			<cost>4100</cost>
+			<max_speed_knots>148</max_speed_knots>
+			<stall_speed_knots>40</stall_speed_knots>
+			<max_altitude_meters>3400</max_altitude_meters>
+			<max_altitude_feet>11152</max_altitude_feet>
+			<max_range_km>106</max_range_km>
+			<max_range_nm>57</max_range_nm>
+			<capacity>10</capacity>
+			<source>Cheshire</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Let L-410 Turbolet</name>
+			<type>ME</type>
+			<cost>4100</cost>
+			<max_speed_knots>238</max_speed_knots>
+			<stall_speed_knots>82</stall_speed_knots>
+			<max_altitude_meters>6400</max_altitude_meters>
+			<max_altitude_feet>20992</max_altitude_feet>
+			<max_range_km>54</max_range_km>
+			<max_range_nm>29</max_range_nm>
+			<capacity>14</capacity>
+			<source>Kauwela</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>De Havilland DHC-6-300 Twin Otter</name>
+			<type>ME</type>
+			<cost>4600</cost>
+			<max_speed_knots>190</max_speed_knots>
+			<stall_speed_knots>58</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>87</max_range_km>
+			<max_range_nm>47</max_range_nm>
+			<capacity>14</capacity>
+			<source>Riziere</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>sky dive wip</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>PTDI N-219 Nurtanio</name>
+			<type>ME</type>
+			<cost>4700</cost>
+			<max_speed_knots>210</max_speed_knots>
+			<stall_speed_knots>59</stall_speed_knots>
+			<max_altitude_meters>7315</max_altitude_meters>
+			<max_altitude_feet>23994</max_altitude_feet>
+			<max_range_km>113</max_range_km>
+			<max_range_nm>61</max_range_nm>
+			<capacity>14</capacity>
+			<source>Radang</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>sky dive wip</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>PTDI N-219 Amphibian</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>205</max_speed_knots>
+			<stall_speed_knots>63</stall_speed_knots>
+			<max_altitude_meters>7200</max_altitude_meters>
+			<max_altitude_feet>23616</max_altitude_feet>
+			<max_range_km>109</max_range_km>
+			<max_range_nm>59</max_range_nm>
+			<capacity>14</capacity>
+			<source>Convertible</source>
+		</stats>
+		<features>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>sky dive wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Antonov An-28</name>
+			<type>ME</type>
+			<cost>5000</cost>
+			<max_speed_knots>190</max_speed_knots>
+			<stall_speed_knots>60</stall_speed_knots>
+			<max_altitude_meters>6000</max_altitude_meters>
+			<max_altitude_feet>19680</max_altitude_feet>
+			<max_range_km>104</max_range_km>
+			<max_range_nm>56</max_range_nm>
+			<capacity>13</capacity>
+			<source>Fiskar</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Douglas DC-3 Dakota</name>
+			<type>ME</type>
+			<cost>6400</cost>
+			<max_speed_knots>179</max_speed_knots>
+			<stall_speed_knots>68</stall_speed_knots>
+			<max_altitude_meters>12600</max_altitude_meters>
+			<max_altitude_feet>41328</max_altitude_feet>
+			<max_range_km>126</max_range_km>
+			<max_range_nm>68</max_range_nm>
+			<capacity>26</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Basler BT-67</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>285</max_speed_knots>
+			<stall_speed_knots>85</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>217</max_range_km>
+			<max_range_nm>117</max_range_nm>
+			<capacity>31</capacity>
+			<source>Craftable</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Ilyushin Il-14</name>
+			<type>ME</type>
+			<cost>6700</cost>
+			<max_speed_knots>225</max_speed_knots>
+			<stall_speed_knots>73</stall_speed_knots>
+			<max_altitude_meters>7400</max_altitude_meters>
+			<max_altitude_feet>24272</max_altitude_feet>
+			<max_range_km>102</max_range_km>
+			<max_range_nm>55</max_range_nm>
+			<capacity>24</capacity>
+			<source>Riskhorosh</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Fairchild C-123 Provider</name>
+			<type>ME</type>
+			<cost>6800</cost>
+			<max_speed_knots>244</max_speed_knots>
+			<stall_speed_knots>89</stall_speed_knots>
+			<max_altitude_meters>7300</max_altitude_meters>
+			<max_altitude_feet>23944</max_altitude_feet>
+			<max_range_km>133</max_range_km>
+			<max_range_nm>72</max_range_nm>
+			<capacity>22</capacity>
+			<source>Rawaki</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Fairchild Swearingen Metroliner</name>
+			<type>ME</type>
+			<cost>7200</cost>
+			<max_speed_knots>311</max_speed_knots>
+			<stall_speed_knots>69</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>146</max_range_km>
+			<max_range_nm>79</max_range_nm>
+			<capacity>14</capacity>
+			<source>New England.</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Saab 340B</name>
+			<type>ME</type>
+			<cost>7800</cost>
+			<max_speed_knots>271</max_speed_knots>
+			<stall_speed_knots>89</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>152</max_range_km>
+			<max_range_nm>82</max_range_nm>
+			<capacity>18</capacity>
+			<source>Eisen. Mun.</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Saab 340CF</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>271</max_speed_knots>
+			<stall_speed_knots>89</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>144</max_range_km>
+			<max_range_nm>78</max_range_nm>
+			<capacity>19</capacity>
+			<source>Cargo variant</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Beechcraft Super King Air B200</name>
+			<type>ME</type>
+			<cost>7900</cost>
+			<max_speed_knots>310</max_speed_knots>
+			<stall_speed_knots>87</stall_speed_knots>
+			<max_altitude_meters>10668</max_altitude_meters>
+			<max_altitude_feet>34991</max_altitude_feet>
+			<max_range_km>146</max_range_km>
+			<max_range_nm>79</max_range_nm>
+			<capacity>14</capacity>
+			<source>Kitesboro</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+			<job>sky dive wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Fokker F27-100 Friendship</name>
+			<type>ME</type>
+			<cost>8000</cost>
+			<max_speed_knots>250</max_speed_knots>
+			<stall_speed_knots>78</stall_speed_knots>
+			<max_altitude_meters>6096</max_altitude_meters>
+			<max_altitude_feet>19995</max_altitude_feet>
+			<max_range_km>193</max_range_km>
+			<max_range_nm>104</max_range_nm>
+			<capacity>22</capacity>
+			<source>Sandris</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>ATR 42-600</name>
+			<type>ME</type>
+			<cost>8100</cost>
+			<max_speed_knots>300</max_speed_knots>
+			<stall_speed_knots>104</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>104</max_range_km>
+			<max_range_nm>56</max_range_nm>
+			<capacity>16</capacity>
+			<source>Cantaloa</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Bombardier Dash 8 Q100</name>
+			<type>ME</type>
+			<cost>8100</cost>
+			<max_speed_knots>289</max_speed_knots>
+			<stall_speed_knots>92</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>187</max_range_km>
+			<max_range_nm>101</max_range_nm>
+			<capacity>15</capacity>
+			<source>Riziere</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Douglas DC-4</name>
+			<type>ME</type>
+			<cost>8200</cost>
+			<max_speed_knots>240</max_speed_knots>
+			<stall_speed_knots>77</stall_speed_knots>
+			<max_altitude_meters>6800</max_altitude_meters>
+			<max_altitude_feet>22304</max_altitude_feet>
+			<max_range_km>219</max_range_km>
+			<max_range_nm>118</max_range_nm>
+			<capacity>27</capacity>
+			<source>Lynwood JAFB</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Aviation Traders ATL-98 Carvair</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>220</max_speed_knots>
+			<stall_speed_knots>98</stall_speed_knots>
+			<max_altitude_meters>5800</max_altitude_meters>
+			<max_altitude_feet>19024</max_altitude_feet>
+			<max_range_km>206</max_range_km>
+			<max_range_nm>111</max_range_nm>
+			<capacity>28</capacity>
+			<source>Cargo variant</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Embraer 120 Brasilia</name>
+			<type>ME</type>
+			<cost>8250</cost>
+			<max_speed_knots>330</max_speed_knots>
+			<stall_speed_knots>87</stall_speed_knots>
+			<max_altitude_meters>8250</max_altitude_meters>
+			<max_altitude_feet>27060</max_altitude_feet>
+			<max_range_km>122</max_range_km>
+			<max_range_nm>66</max_range_nm>
+			<capacity>18</capacity>
+			<source>Harden</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Fairchild C-119 Flying Boxcar</name>
+			<type>ME</type>
+			<cost>8550</cost>
+			<max_speed_knots>244</max_speed_knots>
+			<stall_speed_knots>89</stall_speed_knots>
+			<max_altitude_meters>7300</max_altitude_meters>
+			<max_altitude_feet>23944</max_altitude_feet>
+			<max_range_km>163</max_range_km>
+			<max_range_nm>88</max_range_nm>
+			<capacity>26</capacity>
+			<source>Paredal</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>CASA CN-235</name>
+			<type>ME</type>
+			<cost>8750</cost>
+			<max_speed_knots>248</max_speed_knots>
+			<stall_speed_knots>84</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>230</max_range_km>
+			<max_range_nm>124</max_range_nm>
+			<capacity>27</capacity>
+			<source>Radang</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Xian MA60</name>
+			<type>ME</type>
+			<cost>9100</cost>
+			<max_speed_knots>278</max_speed_knots>
+			<stall_speed_knots>90</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>117</max_range_km>
+			<max_range_nm>63</max_range_nm>
+			<capacity>22</capacity>
+			<source>Zhoudaijiang</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Antonov An-8</name>
+			<type>ME</type>
+			<cost>9200</cost>
+			<max_speed_knots>330</max_speed_knots>
+			<stall_speed_knots>102</stall_speed_knots>
+			<max_altitude_meters>9600</max_altitude_meters>
+			<max_altitude_feet>31488</max_altitude_feet>
+			<max_range_km>187</max_range_km>
+			<max_range_nm>101</max_range_nm>
+			<capacity>22</capacity>
+			<source>Fiskar</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>ATR 72-500</name>
+			<type>ME</type>
+			<cost>9400</cost>
+			<max_speed_knots>310</max_speed_knots>
+			<stall_speed_knots>105</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>148</max_range_km>
+			<max_range_nm>80</max_range_nm>
+			<capacity>24</capacity>
+			<source>Cantaloa</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Douglas DC-6B</name>
+			<type>ME</type>
+			<cost>9600</cost>
+			<max_speed_knots>273</max_speed_knots>
+			<stall_speed_knots>87</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>246</max_range_km>
+			<max_range_nm>133</max_range_nm>
+			<capacity>30</capacity>
+			<source>Clarence</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Douglas DC-6A</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>269</max_speed_knots>
+			<stall_speed_knots>90</stall_speed_knots>
+			<max_altitude_meters>6700</max_altitude_meters>
+			<max_altitude_feet>21976</max_altitude_feet>
+			<max_range_km>269</max_range_km>
+			<max_range_nm>145</max_range_nm>
+			<capacity>27</capacity>
+			<source>Cargo variant</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Bombardier Dash 8 Q400</name>
+			<type>ME</type>
+			<cost>9800</cost>
+			<max_speed_knots>360</max_speed_knots>
+			<stall_speed_knots>102</stall_speed_knots>
+			<max_altitude_meters>8229</max_altitude_meters>
+			<max_altitude_feet>26992</max_altitude_feet>
+			<max_range_km>183</max_range_km>
+			<max_range_nm>99</max_range_nm>
+			<capacity>25</capacity>
+			<source>Riziere</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Antonov An-24</name>
+			<type>ME</type>
+			<cost>9900</cost>
+			<max_speed_knots>275</max_speed_knots>
+			<stall_speed_knots>90</stall_speed_knots>
+			<max_altitude_meters>8400</max_altitude_meters>
+			<max_altitude_feet>27552</max_altitude_feet>
+			<max_range_km>106</max_range_km>
+			<max_range_nm>57</max_range_nm>
+			<capacity>28</capacity>
+			<source>Fiskar</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Antonov An-10</name>
+			<type>ME</type>
+			<cost>11400</cost>
+			<max_speed_knots>386</max_speed_knots>
+			<stall_speed_knots>88</stall_speed_knots>
+			<max_altitude_meters>11400</max_altitude_meters>
+			<max_altitude_feet>37392</max_altitude_feet>
+			<max_range_km>187</max_range_km>
+			<max_range_nm>101</max_range_nm>
+			<capacity>28</capacity>
+			<source>Leovetsk</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Boeing 377 Stratocruiser</name>
+			<type>ME</type>
+			<cost>12400</cost>
+			<max_speed_knots>326</max_speed_knots>
+			<stall_speed_knots>109</stall_speed_knots>
+			<max_altitude_meters>9800</max_altitude_meters>
+			<max_altitude_feet>32144</max_altitude_feet>
+			<max_range_km>207</max_range_km>
+			<max_range_nm>112</max_range_nm>
+			<capacity>32</capacity>
+			<source>Clarence</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Douglas DC-7C</name>
+			<type>ME</type>
+			<cost>13400</cost>
+			<max_speed_knots>353</max_speed_knots>
+			<stall_speed_knots>84</stall_speed_knots>
+			<max_altitude_meters>6600</max_altitude_meters>
+			<max_altitude_feet>21648</max_altitude_feet>
+			<max_range_km>333</max_range_km>
+			<max_range_nm>180</max_range_nm>
+			<capacity>30</capacity>
+			<source>Kitesboro</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Douglas DC-7F</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>353</max_speed_knots>
+			<stall_speed_knots>84</stall_speed_knots>
+			<max_altitude_meters>6600</max_altitude_meters>
+			<max_altitude_feet>21648</max_altitude_feet>
+			<max_range_km>269</max_range_km>
+			<max_range_nm>145</max_range_nm>
+			<capacity>30</capacity>
+			<source>Cargo variant</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>EM-11 Orka</name>
+			<type>ME</type>
+			<cost>2400</cost>
+			<max_speed_knots>194</max_speed_knots>
+			<stall_speed_knots>59</stall_speed_knots>
+			<max_altitude_meters>5500</max_altitude_meters>
+			<max_altitude_feet>18040</max_altitude_feet>
+			<max_range_km>120</max_range_km>
+			<max_range_nm>65</max_range_nm>
+			<capacity>3</capacity>
+			<source>East Cove</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>De Havilland DHC-84 Dragon Rapide</name>
+			<type>ME</type>
+			<cost>2700</cost>
+			<max_speed_knots>111</max_speed_knots>
+			<stall_speed_knots>40</stall_speed_knots>
+			<max_altitude_meters>3800</max_altitude_meters>
+			<max_altitude_feet>12464</max_altitude_feet>
+			<max_range_km>69</max_range_km>
+			<max_range_nm>37</max_range_nm>
+			<capacity>9</capacity>
+			<source>Tikaranto Intl.</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Antonov An-14</name>
+			<type>ME</type>
+			<cost>2800</cost>
+			<max_speed_knots>110</max_speed_knots>
+			<stall_speed_knots>58</stall_speed_knots>
+			<max_altitude_meters>5000</max_altitude_meters>
+			<max_altitude_feet>16400</max_altitude_feet>
+			<max_range_km>63</max_range_km>
+			<max_range_nm>34</max_range_nm>
+			<capacity>8</capacity>
+			<source>Fiskar</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Grumman Goose</name>
+			<type>ME</type>
+			<cost>3200</cost>
+			<max_speed_knots>166</max_speed_knots>
+			<stall_speed_knots>62</stall_speed_knots>
+			<max_altitude_meters>6500</max_altitude_meters>
+			<max_altitude_feet>21320</max_altitude_feet>
+			<max_range_km>146</max_range_km>
+			<max_range_nm>79</max_range_nm>
+			<capacity>7</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+			<job>MSAR</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Beechcraft Starship</name>
+			<type>ME</type>
+			<cost>4000</cost>
+			<max_speed_knots>335</max_speed_knots>
+			<stall_speed_knots>97</stall_speed_knots>
+			<max_altitude_meters>12500</max_altitude_meters>
+			<max_altitude_feet>41000</max_altitude_feet>
+			<max_range_km>141</max_range_km>
+			<max_range_nm>76</max_range_nm>
+			<capacity>6</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>De Havilland DHC-6-300 Twin Otter Amph.</name>
+			<type>ME</type>
+			<cost>4300</cost>
+			<max_speed_knots>185</max_speed_knots>
+			<stall_speed_knots>60</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>87</max_range_km>
+			<max_range_nm>47</max_range_nm>
+			<capacity>14</capacity>
+			<source>Jotunfrost</source>
+		</stats>
+		<features>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Britten-Norman BN-2A Mk III Trislander</name>
+			<type>ME</type>
+			<cost>4500</cost>
+			<max_speed_knots>160</max_speed_knots>
+			<stall_speed_knots>60</stall_speed_knots>
+			<max_altitude_meters>4011</max_altitude_meters>
+			<max_altitude_feet>13157</max_altitude_feet>
+			<max_range_km>117</max_range_km>
+			<max_range_nm>63</max_range_nm>
+			<capacity>13</capacity>
+			<source>Ness</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Mitsubishi Mu-2J</name>
+			<type>ME</type>
+			<cost>4600</cost>
+			<max_speed_knots>300</max_speed_knots>
+			<stall_speed_knots>100</stall_speed_knots>
+			<max_altitude_meters>12500</max_altitude_meters>
+			<max_altitude_feet>41000</max_altitude_feet>
+			<max_range_km>156</max_range_km>
+			<max_range_nm>84</max_range_nm>
+			<capacity>10</capacity>
+			<source>Kashio</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Short SC.7 Skyvan</name>
+			<type>ME</type>
+			<cost>5000</cost>
+			<max_speed_knots>217</max_speed_knots>
+			<stall_speed_knots>60</stall_speed_knots>
+			<max_altitude_meters>6858</max_altitude_meters>
+			<max_altitude_feet>22494</max_altitude_feet>
+			<max_range_km>74</max_range_km>
+			<max_range_nm>40</max_range_nm>
+			<capacity>14</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>sky dive wip</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Grumman Albatross</name>
+			<type>ME</type>
+			<cost>6100</cost>
+			<max_speed_knots>205</max_speed_knots>
+			<stall_speed_knots>64</stall_speed_knots>
+			<max_altitude_meters>6600</max_altitude_meters>
+			<max_altitude_feet>21648</max_altitude_feet>
+			<max_range_km>239</max_range_km>
+			<max_range_nm>129</max_range_nm>
+			<capacity>15</capacity>
+			<source>Kauwela</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>MSAR</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>De Havilland DHC-7-100</name>
+			<type>ME</type>
+			<cost>6300</cost>
+			<max_speed_knots>231</max_speed_knots>
+			<stall_speed_knots>67</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>80</max_range_km>
+			<max_range_nm>43</max_range_nm>
+			<capacity>21</capacity>
+			<source>Ebenrau</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Savoia-Marchetti S.66</name>
+			<type>ME</type>
+			<cost>7400</cost>
+			<max_speed_knots>143</max_speed_knots>
+			<stall_speed_knots>60</stall_speed_knots>
+			<max_altitude_meters>5000</max_altitude_meters>
+			<max_altitude_feet>16400</max_altitude_feet>
+			<max_range_km>96</max_range_km>
+			<max_range_nm>52</max_range_nm>
+			<capacity>19</capacity>
+			<source>Seilam</source>
+		</stats>
+		<features>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>MSAR</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>CANT Z.511</name>
+			<type>ME</type>
+			<cost>7840</cost>
+			<max_speed_knots>229</max_speed_knots>
+			<stall_speed_knots>75</stall_speed_knots>
+			<max_altitude_meters>7550</max_altitude_meters>
+			<max_altitude_feet>24764</max_altitude_feet>
+			<max_range_km>232</max_range_km>
+			<max_range_nm>125</max_range_nm>
+			<capacity>16</capacity>
+			<source>Seilam</source>
+		</stats>
+		<features>
+			<feature>Sea plane</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+			<job>pts wip</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Ilyushin Il-112</name>
+			<type>ME</type>
+			<cost>8300</cost>
+			<max_speed_knots>270</max_speed_knots>
+			<stall_speed_knots>105</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>154</max_range_km>
+			<max_range_nm>83</max_range_nm>
+			<capacity>18</capacity>
+			<source>Riskhorosh</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Nord Noratlas</name>
+			<type>ME</type>
+			<cost>8500</cost>
+			<max_speed_knots>240</max_speed_knots>
+			<stall_speed_knots>89</stall_speed_knots>
+			<max_altitude_meters>7500</max_altitude_meters>
+			<max_altitude_feet>24600</max_altitude_feet>
+			<max_range_km>157</max_range_km>
+			<max_range_nm>85</max_range_nm>
+			<capacity>20</capacity>
+			<source>Enoksen</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Ilyushin Il-114-100</name>
+			<type>ME</type>
+			<cost>8600</cost>
+			<max_speed_knots>270</max_speed_knots>
+			<stall_speed_knots>100</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>85</max_range_km>
+			<max_range_nm>46</max_range_nm>
+			<capacity>26</capacity>
+			<source>Leovetsk</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Ilyushin Il-114T</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>270</max_speed_knots>
+			<stall_speed_knots>100</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>83</max_range_km>
+			<max_range_nm>45</max_range_nm>
+			<capacity>27</capacity>
+			<source>Cargo variant</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Saab 2000</name>
+			<type>ME</type>
+			<cost>8700</cost>
+			<max_speed_knots>368</max_speed_knots>
+			<stall_speed_knots>92</stall_speed_knots>
+			<max_altitude_meters>9450</max_altitude_meters>
+			<max_altitude_feet>30996</max_altitude_feet>
+			<max_range_km>152</max_range_km>
+			<max_range_nm>82</max_range_nm>
+			<capacity>21</capacity>
+			<source>Anh. City</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Saab 2000 Erieye AEW&amp;C</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>368</max_speed_knots>
+			<stall_speed_knots>92</stall_speed_knots>
+			<max_altitude_meters>9450</max_altitude_meters>
+			<max_altitude_feet>30996</max_altitude_feet>
+			<max_range_km>154</max_range_km>
+			<max_range_nm>83</max_range_nm>
+			<capacity>10</capacity>
+			<source>Craftable</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>NAMC YS-11</name>
+			<type>ME</type>
+			<cost>8750</cost>
+			<max_speed_knots>253</max_speed_knots>
+			<stall_speed_knots>76</stall_speed_knots>
+			<max_altitude_meters>6982</max_altitude_meters>
+			<max_altitude_feet>22901</max_altitude_feet>
+			<max_range_km>187</max_range_km>
+			<max_range_nm>101</max_range_nm>
+			<capacity>22</capacity>
+			<source>Umibutsu</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Fokker 50</name>
+			<type>ME</type>
+			<cost>9000</cost>
+			<max_speed_knots>305</max_speed_knots>
+			<stall_speed_knots>84</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>143</max_range_km>
+			<max_range_nm>77</max_range_nm>
+			<capacity>24</capacity>
+			<source>Ebenrau</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Fokker 50F</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>300</max_speed_knots>
+			<stall_speed_knots>84</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>131</max_range_km>
+			<max_range_nm>71</max_range_nm>
+			<capacity>26</capacity>
+			<source>Convertible</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Lockheed P-3C Orion</name>
+			<type>ME</type>
+			<cost>9700</cost>
+			<max_speed_knots>411</max_speed_knots>
+			<stall_speed_knots>112</stall_speed_knots>
+			<max_altitude_meters>8600</max_altitude_meters>
+			<max_altitude_feet>28208</max_altitude_feet>
+			<max_range_km>378</max_range_km>
+			<max_range_nm>204</max_range_nm>
+			<capacity>10</capacity>
+			<source>Kashio</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>pts wip</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>CASA C-295</name>
+			<type>ME</type>
+			<cost>10100</cost>
+			<max_speed_knots>260</max_speed_knots>
+			<stall_speed_knots>92</stall_speed_knots>
+			<max_altitude_meters>9145</max_altitude_meters>
+			<max_altitude_feet>29996</max_altitude_feet>
+			<max_range_km>239</max_range_km>
+			<max_range_nm>129</max_range_nm>
+			<capacity>28</capacity>
+			<source>Ryvinsk</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Airbus CC-295 FWSAR Kingfisher</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>260</max_speed_knots>
+			<stall_speed_knots>92</stall_speed_knots>
+			<max_altitude_meters>9050</max_altitude_meters>
+			<max_altitude_feet>29684</max_altitude_feet>
+			<max_range_km>246</max_range_km>
+			<max_range_nm>133</max_range_nm>
+			<capacity>15</capacity>
+			<source>Convertible</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Antonov An-140</name>
+			<type>ME</type>
+			<cost>10700</cost>
+			<max_speed_knots>310</max_speed_knots>
+			<stall_speed_knots>93</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>206</max_range_km>
+			<max_range_nm>111</max_range_nm>
+			<capacity>28</capacity>
+			<source>Riskhorosh</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Lockheed C-130H Hercules</name>
+			<type>ME</type>
+			<cost>11600</cost>
+			<max_speed_knots>320</max_speed_knots>
+			<stall_speed_knots>99</stall_speed_knots>
+			<max_altitude_meters>10000</max_altitude_meters>
+			<max_altitude_feet>32800</max_altitude_feet>
+			<max_range_km>219</max_range_km>
+			<max_range_nm>118</max_range_nm>
+			<capacity>30</capacity>
+			<source>Lynwood JAFB</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Antonov An-12</name>
+			<type>ME</type>
+			<cost>12800</cost>
+			<max_speed_knots>360</max_speed_knots>
+			<stall_speed_knots>92</stall_speed_knots>
+			<max_altitude_meters>12800</max_altitude_meters>
+			<max_altitude_feet>41984</max_altitude_feet>
+			<max_range_km>222</max_range_km>
+			<max_range_nm>120</max_range_nm>
+			<capacity>30</capacity>
+			<source>Leovetsk</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Lockheed L-1049 Super Constellation</name>
+			<type>ME</type>
+			<cost>13800</cost>
+			<max_speed_knots>286</max_speed_knots>
+			<stall_speed_knots>110</stall_speed_knots>
+			<max_altitude_meters>12600</max_altitude_meters>
+			<max_altitude_feet>41328</max_altitude_feet>
+			<max_range_km>332</max_range_km>
+			<max_range_nm>179</max_range_nm>
+			<capacity>34</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Lockheed L-188C Electra</name>
+			<type>ME</type>
+			<cost>14000</cost>
+			<max_speed_knots>389</max_speed_knots>
+			<stall_speed_knots>93</stall_speed_knots>
+			<max_altitude_meters>8700</max_altitude_meters>
+			<max_altitude_feet>28536</max_altitude_feet>
+			<max_range_km>233</max_range_km>
+			<max_range_nm>126</max_range_nm>
+			<capacity>29</capacity>
+			<source>Santa Mortica</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Lockheed L-188CF Electra</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>389</max_speed_knots>
+			<stall_speed_knots>97</stall_speed_knots>
+			<max_altitude_meters>8700</max_altitude_meters>
+			<max_altitude_feet>28536</max_altitude_feet>
+			<max_range_km>220</max_range_km>
+			<max_range_nm>119</max_range_nm>
+			<capacity>32</capacity>
+			<source>Cargo variant</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Ilyushin Il-18</name>
+			<type>ME</type>
+			<cost>14200</cost>
+			<max_speed_knots>364</max_speed_knots>
+			<stall_speed_knots>108</stall_speed_knots>
+			<max_altitude_meters>11800</max_altitude_meters>
+			<max_altitude_feet>38704</max_altitude_feet>
+			<max_range_km>304</max_range_km>
+			<max_range_nm>164</max_range_nm>
+			<capacity>35</capacity>
+			<source>Fiskar</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Ilyushin Il-18GrM</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>364</max_speed_knots>
+			<stall_speed_knots>108</stall_speed_knots>
+			<max_altitude_meters>11800</max_altitude_meters>
+			<max_altitude_feet>38704</max_altitude_feet>
+			<max_range_km>270</max_range_km>
+			<max_range_nm>146</max_range_nm>
+			<capacity>32</capacity>
+			<source>Cargo variant</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Bristol Britannia 300</name>
+			<type>ME</type>
+			<cost>15000</cost>
+			<max_speed_knots>345</max_speed_knots>
+			<stall_speed_knots>87</stall_speed_knots>
+			<max_altitude_meters>7300</max_altitude_meters>
+			<max_altitude_feet>23944</max_altitude_feet>
+			<max_range_km>322</max_range_km>
+			<max_range_nm>174</max_range_nm>
+			<capacity>39</capacity>
+			<source>Auchenburgh</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Canadair CL-44D4 Swingtail</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>360</max_speed_knots>
+			<stall_speed_knots>110</stall_speed_knots>
+			<max_altitude_meters>9100</max_altitude_meters>
+			<max_altitude_feet>29848</max_altitude_feet>
+			<max_range_km>378</max_range_km>
+			<max_range_nm>204</max_range_nm>
+			<capacity>41</capacity>
+			<source>Cargo variant</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Conroy CL-44-0 Skymonster</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>345</max_speed_knots>
+			<stall_speed_knots>125</stall_speed_knots>
+			<max_altitude_meters>9100</max_altitude_meters>
+			<max_altitude_feet>29848</max_altitude_feet>
+			<max_range_km>348</max_range_km>
+			<max_range_nm>188</max_range_nm>
+			<capacity>57</capacity>
+			<source>Convertible</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Canadair CP-107 Argus</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>274</max_speed_knots>
+			<stall_speed_knots>83</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>393</max_range_km>
+			<max_range_nm>212</max_range_nm>
+			<capacity>11</capacity>
+			<source>Convertible</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>pts wip</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Fokker 50MPA Enforcer Mk.2</name>
+			<type>ME</type>
+			<cost>15000</cost>
+			<max_speed_knots>302</max_speed_knots>
+			<stall_speed_knots>90</stall_speed_knots>
+			<max_altitude_meters>7620</max_altitude_meters>
+			<max_altitude_feet>24994</max_altitude_feet>
+			<max_range_km>122</max_range_km>
+			<max_range_nm>66</max_range_nm>
+			<capacity>20</capacity>
+			<source>Horomoto AFB</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>pts wip</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Ilyushin Il-38N</name>
+			<type>ME</type>
+			<cost>18000</cost>
+			<max_speed_knots>364</max_speed_knots>
+			<stall_speed_knots>108</stall_speed_knots>
+			<max_altitude_meters>11800</max_altitude_meters>
+			<max_altitude_feet>38704</max_altitude_feet>
+			<max_range_km>350</max_range_km>
+			<max_range_nm>189</max_range_nm>
+			<capacity>8</capacity>
+			<source>Novoaralsk</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>pts wip</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Antonov 181</name>
+			<type>ME</type>
+			<cost>1200</cost>
+			<max_speed_knots>122</max_speed_knots>
+			<stall_speed_knots>30</stall_speed_knots>
+			<max_altitude_meters>4200</max_altitude_meters>
+			<max_altitude_feet>13776</max_altitude_feet>
+			<max_range_km>56</max_range_km>
+			<max_range_nm>30</max_range_nm>
+			<capacity>2</capacity>
+			<source>Northiachev</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Aero Ae-45</name>
+			<type>ME</type>
+			<cost>1700</cost>
+			<max_speed_knots>152</max_speed_knots>
+			<stall_speed_knots>49</stall_speed_knots>
+			<max_altitude_meters>5900</max_altitude_meters>
+			<max_altitude_feet>19352</max_altitude_feet>
+			<max_range_km>117</max_range_km>
+			<max_range_nm>63</max_range_nm>
+			<capacity>4</capacity>
+			<source>East Cove</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Rutan Model 202 Boomerang</name>
+			<type>ME</type>
+			<cost>3750</cost>
+			<max_speed_knots>270</max_speed_knots>
+			<stall_speed_knots>70</stall_speed_knots>
+			<max_altitude_meters>7000</max_altitude_meters>
+			<max_altitude_feet>22960</max_altitude_feet>
+			<max_range_km>209</max_range_km>
+			<max_range_nm>113</max_range_nm>
+			<capacity>5</capacity>
+			<source>New England.</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Tupolev Tu-2 Bat</name>
+			<type>ME</type>
+			<cost>5200</cost>
+			<max_speed_knots>285</max_speed_knots>
+			<stall_speed_knots>94</stall_speed_knots>
+			<max_altitude_meters>9000</max_altitude_meters>
+			<max_altitude_feet>29520</max_altitude_feet>
+			<max_range_km>135</max_range_km>
+			<max_range_nm>73</max_range_nm>
+			<capacity>4</capacity>
+			<source>Riskhorosh</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Piaggio P.180 Avanti</name>
+			<type>ME</type>
+			<cost>6000</cost>
+			<max_speed_knots>400</max_speed_knots>
+			<stall_speed_knots>95</stall_speed_knots>
+			<max_altitude_meters>12000</max_altitude_meters>
+			<max_altitude_feet>39360</max_altitude_feet>
+			<max_range_km>152</max_range_km>
+			<max_range_nm>82</max_range_nm>
+			<capacity>9</capacity>
+			<source>Oconee</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Canadair CL-215 Scooper</name>
+			<type>ME</type>
+			<cost>7400</cost>
+			<max_speed_knots>157</max_speed_knots>
+			<stall_speed_knots>66</stall_speed_knots>
+			<max_altitude_meters>4450</max_altitude_meters>
+			<max_altitude_feet>14596</max_altitude_feet>
+			<max_range_km>141</max_range_km>
+			<max_range_nm>76</max_range_nm>
+			<capacity>15</capacity>
+			<source>Ryvinsk</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Sea plane</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>MSAR</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Mitsubishi G4M3 Betty</name>
+			<type>ME</type>
+			<cost>7800</cost>
+			<max_speed_knots>231</max_speed_knots>
+			<stall_speed_knots>65</stall_speed_knots>
+			<max_altitude_meters>8949</max_altitude_meters>
+			<max_altitude_feet>29353</max_altitude_feet>
+			<max_range_km>256</max_range_km>
+			<max_range_nm>138</max_range_nm>
+			<capacity>7</capacity>
+			<source>Tousunai</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Lockheed P-38 Lightning</name>
+			<type>ME</type>
+			<cost>8000</cost>
+			<max_speed_knots>360</max_speed_knots>
+			<stall_speed_knots>91</stall_speed_knots>
+			<max_altitude_meters>13000</max_altitude_meters>
+			<max_altitude_feet>42640</max_altitude_feet>
+			<max_range_km>109</max_range_km>
+			<max_range_nm>59</max_range_nm>
+			<capacity>1</capacity>
+			<source>Clarence</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Kawanishi H6K4-L</name>
+			<type>ME</type>
+			<cost>8500</cost>
+			<max_speed_knots>180</max_speed_knots>
+			<stall_speed_knots>68</stall_speed_knots>
+			<max_altitude_meters>9560</max_altitude_meters>
+			<max_altitude_feet>31357</max_altitude_feet>
+			<max_range_km>246</max_range_km>
+			<max_range_nm>133</max_range_nm>
+			<capacity>18</capacity>
+			<source>Tousunai</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Sea plane</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Martin M-130</name>
+			<type>ME</type>
+			<cost>9600</cost>
+			<max_speed_knots>160</max_speed_knots>
+			<stall_speed_knots>70</stall_speed_knots>
+			<max_altitude_meters>3048</max_altitude_meters>
+			<max_altitude_feet>9998</max_altitude_feet>
+			<max_range_km>257</max_range_km>
+			<max_range_nm>139</max_range_nm>
+			<capacity>20</capacity>
+			<source>Harden</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Tupolev Tu-70</name>
+			<type>ME</type>
+			<cost>10100</cost>
+			<max_speed_knots>307</max_speed_knots>
+			<stall_speed_knots>92</stall_speed_knots>
+			<max_altitude_meters>11000</max_altitude_meters>
+			<max_altitude_feet>36080</max_altitude_feet>
+			<max_range_km>157</max_range_km>
+			<max_range_nm>85</max_range_nm>
+			<capacity>30</capacity>
+			<source>Riskhorosh</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Alenia C-27J Spartan</name>
+			<type>ME</type>
+			<cost>10200</cost>
+			<max_speed_knots>325</max_speed_knots>
+			<stall_speed_knots>105</stall_speed_knots>
+			<max_altitude_meters>9144</max_altitude_meters>
+			<max_altitude_feet>29993</max_altitude_feet>
+			<max_range_km>282</max_range_km>
+			<max_range_nm>152</max_range_nm>
+			<capacity>27</capacity>
+			<source>Seilam</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Latécoère 631</name>
+			<type>ME</type>
+			<cost>10800</cost>
+			<max_speed_knots>213</max_speed_knots>
+			<stall_speed_knots>95</stall_speed_knots>
+			<max_altitude_meters>6200</max_altitude_meters>
+			<max_altitude_feet>20336</max_altitude_feet>
+			<max_range_km>287</max_range_km>
+			<max_range_nm>155</max_range_nm>
+			<capacity>30</capacity>
+			<source>Sandris</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Lockheed WP-3D Orion</name>
+			<type>ME</type>
+			<cost>13000</cost>
+			<max_speed_knots>411</max_speed_knots>
+			<stall_speed_knots>122</stall_speed_knots>
+			<max_altitude_meters>8200</max_altitude_meters>
+			<max_altitude_feet>26896</max_altitude_feet>
+			<max_range_km>319</max_range_km>
+			<max_range_nm>172</max_range_nm>
+			<capacity>22</capacity>
+			<source>Rawaki</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Douglas UC-67 Dragon</name>
+			<type>ME</type>
+			<cost>13400</cost>
+			<max_speed_knots>245</max_speed_knots>
+			<stall_speed_knots>70</stall_speed_knots>
+			<max_altitude_meters>9600</max_altitude_meters>
+			<max_altitude_feet>31488</max_altitude_feet>
+			<max_range_km>148</max_range_km>
+			<max_range_nm>80</max_range_nm>
+			<capacity>29</capacity>
+			<source>Norman</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Martin JRM Mars</name>
+			<type>ME</type>
+			<cost>15000</cost>
+			<max_speed_knots>192</max_speed_knots>
+			<stall_speed_knots>85</stall_speed_knots>
+			<max_altitude_meters>4500</max_altitude_meters>
+			<max_altitude_feet>14760</max_altitude_feet>
+			<max_range_km>296</max_range_km>
+			<max_range_nm>160</max_range_nm>
+			<capacity>35</capacity>
+			<source>Kitesboro</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Sea plane</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Breguet 763</name>
+			<type>ME</type>
+			<cost>16200</cost>
+			<max_speed_knots>240</max_speed_knots>
+			<stall_speed_knots>90</stall_speed_knots>
+			<max_altitude_meters>6000</max_altitude_meters>
+			<max_altitude_feet>19680</max_altitude_feet>
+			<max_range_km>146</max_range_km>
+			<max_range_nm>79</max_range_nm>
+			<capacity>34</capacity>
+			<source>Oakport</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Northrop Grumman E-2D Hawkeye</name>
+			<type>ME</type>
+			<cost>20050</cost>
+			<max_speed_knots>338</max_speed_knots>
+			<stall_speed_knots>75</stall_speed_knots>
+			<max_altitude_meters>11275</max_altitude_meters>
+			<max_altitude_feet>36982</max_altitude_feet>
+			<max_range_km>167</max_range_km>
+			<max_range_nm>90</max_range_nm>
+			<capacity>5</capacity>
+			<source>OSS Lernivo</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+			<feature>Tail hook</feature>
+		</features>
+		<jobs>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Airbus A400M Atlas</name>
+			<type>ME</type>
+			<cost>22400</cost>
+			<max_speed_knots>480</max_speed_knots>
+			<stall_speed_knots>118</stall_speed_knots>
+			<max_altitude_meters>12200</max_altitude_meters>
+			<max_altitude_feet>40016</max_altitude_feet>
+			<max_range_km>254</max_range_km>
+			<max_range_nm>137</max_range_nm>
+			<capacity>38</capacity>
+			<source>Valois</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Tupolev Tu-114</name>
+			<type>ME</type>
+			<cost>29000</cost>
+			<max_speed_knots>470</max_speed_knots>
+			<stall_speed_knots>135</stall_speed_knots>
+			<max_altitude_meters>12000</max_altitude_meters>
+			<max_altitude_feet>39360</max_altitude_feet>
+			<max_range_km>219</max_range_km>
+			<max_range_nm>118</max_range_nm>
+			<capacity>40</capacity>
+			<source>Fiskar</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Dassault M.D.320 Hirondelle</name>
+			<type>ME</type>
+			<cost>7000</cost>
+			<max_speed_knots>270</max_speed_knots>
+			<stall_speed_knots>85</stall_speed_knots>
+			<max_altitude_meters>9000</max_altitude_meters>
+			<max_altitude_feet>29520</max_altitude_feet>
+			<max_range_km>180</max_range_km>
+			<max_range_nm>97</max_range_nm>
+			<capacity>11</capacity>
+			<source>Valois</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+		</features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Grumman XF5F Skyrocket</name>
+			<type>ME</type>
+			<cost>8200</cost>
+			<max_speed_knots>333</max_speed_knots>
+			<stall_speed_knots>61</stall_speed_knots>
+			<max_altitude_meters>11000</max_altitude_meters>
+			<max_altitude_feet>36080</max_altitude_feet>
+			<max_range_km>126</max_range_km>
+			<max_range_nm>68</max_range_nm>
+			<capacity>1</capacity>
+			<source>Eisen. AFB</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+			<feature>Tail hook</feature>
+		</features>
+		<jobs>
+			<job>Racing</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Focke-Wulf Fw 200 Condor</name>
+			<type>ME</type>
+			<cost>8200</cost>
+			<max_speed_knots>210</max_speed_knots>
+			<stall_speed_knots>76</stall_speed_knots>
+			<max_altitude_meters>6000</max_altitude_meters>
+			<max_altitude_feet>19680</max_altitude_feet>
+			<max_range_km>204</max_range_km>
+			<max_range_nm>110</max_range_nm>
+			<capacity>20</capacity>
+			<source>Sandris</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Avro Lancaster</name>
+			<type>ME</type>
+			<cost>8800</cost>
+			<max_speed_knots>252</max_speed_knots>
+			<stall_speed_knots>81</stall_speed_knots>
+			<max_altitude_meters>6500</max_altitude_meters>
+			<max_altitude_feet>21320</max_altitude_feet>
+			<max_range_km>220</max_range_km>
+			<max_range_nm>119</max_range_nm>
+			<capacity>7</capacity>
+			<source>Anh. Intl.</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Consolidated PBY Catalina</name>
+			<type>ME</type>
+			<cost>8800</cost>
+			<max_speed_knots>180</max_speed_knots>
+			<stall_speed_knots>65</stall_speed_knots>
+			<max_altitude_meters>4800</max_altitude_meters>
+			<max_altitude_feet>15744</max_altitude_feet>
+			<max_range_km>187</max_range_km>
+			<max_range_nm>101</max_range_nm>
+			<capacity>20</capacity>
+			<source>Augustus</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Sea plane</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>pts wip</job>
+			<job>Cargo drop wip</job>
+			<job>Surveilance</job>
+			<job>MSAR</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Boeing B-17G Flying Fortress</name>
+			<type>ME</type>
+			<cost>9000</cost>
+			<max_speed_knots>249</max_speed_knots>
+			<stall_speed_knots>71</stall_speed_knots>
+			<max_altitude_meters>10850</max_altitude_meters>
+			<max_altitude_feet>35588</max_altitude_feet>
+			<max_range_km>287</max_range_km>
+			<max_range_nm>155</max_range_nm>
+			<capacity>10</capacity>
+			<source>Castle Atoll</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Breguet 941</name>
+			<type>ME</type>
+			<cost>9400</cost>
+			<max_speed_knots>240</max_speed_knots>
+			<stall_speed_knots>74</stall_speed_knots>
+			<max_altitude_meters>9500</max_altitude_meters>
+			<max_altitude_feet>31160</max_altitude_feet>
+			<max_range_km>85</max_range_km>
+			<max_range_nm>46</max_range_nm>
+			<capacity>21</capacity>
+			<source>Kjerstin</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>IPTN N-250</name>
+			<type>ME</type>
+			<cost>9500</cost>
+			<max_speed_knots>350</max_speed_knots>
+			<stall_speed_knots>90</stall_speed_knots>
+			<max_altitude_meters>9140</max_altitude_meters>
+			<max_altitude_feet>29980</max_altitude_feet>
+			<max_range_km>100</max_range_km>
+			<max_range_nm>54</max_range_nm>
+			<capacity>26</capacity>
+			<source>Radang</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Dornier Do X</name>
+			<type>ME</type>
+			<cost>14400</cost>
+			<max_speed_knots>131</max_speed_knots>
+			<stall_speed_knots>75</stall_speed_knots>
+			<max_altitude_meters>3200</max_altitude_meters>
+			<max_altitude_feet>10496</max_altitude_feet>
+			<max_range_km>120</max_range_km>
+			<max_range_nm>65</max_range_nm>
+			<capacity>32</capacity>
+			<source>Webley</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Kawanishi H8K2-L</name>
+			<type>ME</type>
+			<cost>15800</cost>
+			<max_speed_knots>255</max_speed_knots>
+			<stall_speed_knots>80</stall_speed_knots>
+			<max_altitude_meters>8850</max_altitude_meters>
+			<max_altitude_feet>29028</max_altitude_feet>
+			<max_range_km>324</max_range_km>
+			<max_range_nm>175</max_range_nm>
+			<capacity>28</capacity>
+			<source>Tousunai</source>
+		</stats>
+		<features>
+			<feature>Sea plane</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>pts wip</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Lockheed L-188E Electron</name>
+			<type>ME</type>
+			<cost>17400</cost>
+			<max_speed_knots>380</max_speed_knots>
+			<stall_speed_knots>97</stall_speed_knots>
+			<max_altitude_meters>8700</max_altitude_meters>
+			<max_altitude_feet>28536</max_altitude_feet>
+			<max_range_km>228</max_range_km>
+			<max_range_nm>123</max_range_nm>
+			<capacity>11</capacity>
+			<source>Kaieteur</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Bristol Brabazon</name>
+			<type>ME</type>
+			<cost>23400</cost>
+			<max_speed_knots>260</max_speed_knots>
+			<stall_speed_knots>134</stall_speed_knots>
+			<max_altitude_meters>7600</max_altitude_meters>
+			<max_altitude_feet>24928</max_altitude_feet>
+			<max_range_km>346</max_range_km>
+			<max_range_nm>187</max_range_nm>
+			<capacity>34</capacity>
+			<source>Anh. Intl.</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>ShinMaywa US-2</name>
+			<type>ME</type>
+			<cost>23500</cost>
+			<max_speed_knots>300</max_speed_knots>
+			<stall_speed_knots>72</stall_speed_knots>
+			<max_altitude_meters>7195</max_altitude_meters>
+			<max_altitude_feet>23600</max_altitude_feet>
+			<max_range_km>243</max_range_km>
+			<max_range_nm>131</max_range_nm>
+			<capacity>14</capacity>
+			<source>Kashio</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>MSAR</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Northrop YB-35</name>
+			<type>ME</type>
+			<cost>26600</cost>
+			<max_speed_knots>340</max_speed_knots>
+			<stall_speed_knots>70</stall_speed_knots>
+			<max_altitude_meters>12100</max_altitude_meters>
+			<max_altitude_feet>39688</max_altitude_feet>
+			<max_range_km>461</max_range_km>
+			<max_range_nm>249</max_range_nm>
+			<capacity>1</capacity>
+			<source>Eisen. AFB</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Antonov An-70</name>
+			<type>ME</type>
+			<cost>31000</cost>
+			<max_speed_knots>420</max_speed_knots>
+			<stall_speed_knots>61</stall_speed_knots>
+			<max_altitude_meters>12000</max_altitude_meters>
+			<max_altitude_feet>39360</max_altitude_feet>
+			<max_range_km>348</max_range_km>
+			<max_range_nm>188</max_range_nm>
+			<capacity>40</capacity>
+			<source>Novoaralsk</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Antonov An-22</name>
+			<type>ME</type>
+			<cost>33500</cost>
+			<max_speed_knots>400</max_speed_knots>
+			<stall_speed_knots>115</stall_speed_knots>
+			<max_altitude_meters>9100</max_altitude_meters>
+			<max_altitude_feet>29848</max_altitude_feet>
+			<max_range_km>287</max_range_km>
+			<max_range_nm>155</max_range_nm>
+			<capacity>45</capacity>
+			<source>Novoaralsk</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>Cargo drop wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Tupolev ANT-20</name>
+			<type>ME</type>
+			<cost>6800</cost>
+			<max_speed_knots>120</max_speed_knots>
+			<stall_speed_knots>73</stall_speed_knots>
+			<max_altitude_meters>4500</max_altitude_meters>
+			<max_altitude_feet>14760</max_altitude_feet>
+			<max_range_km>96</max_range_km>
+			<max_range_nm>52</max_range_nm>
+			<capacity>30</capacity>
+			<source>Northiachev</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Kalinin K-7</name>
+			<type>ME</type>
+			<cost>11400</cost>
+			<max_speed_knots>121</max_speed_knots>
+			<stall_speed_knots>83</stall_speed_knots>
+			<max_altitude_meters>4000</max_altitude_meters>
+			<max_altitude_feet>13120</max_altitude_feet>
+			<max_range_km>117</max_range_km>
+			<max_range_nm>63</max_range_nm>
+			<capacity>11</capacity>
+			<source>Northiachev</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Boeing B-29A Superfortress</name>
+			<type>ME</type>
+			<cost>14800</cost>
+			<max_speed_knots>310</max_speed_knots>
+			<stall_speed_knots>91</stall_speed_knots>
+			<max_altitude_meters>9710</max_altitude_meters>
+			<max_altitude_feet>31849</max_altitude_feet>
+			<max_range_km>378</max_range_km>
+			<max_range_nm>204</max_range_nm>
+			<capacity>11</capacity>
+			<source>Castle Atoll</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Cockpit</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Hughes XF-11</name>
+			<type>ME</type>
+			<cost>15000</cost>
+			<max_speed_knots>390</max_speed_knots>
+			<stall_speed_knots>91</stall_speed_knots>
+			<max_altitude_meters>13000</max_altitude_meters>
+			<max_altitude_feet>42640</max_altitude_feet>
+			<max_range_km>350</max_range_km>
+			<max_range_nm>189</max_range_nm>
+			<capacity>2</capacity>
+			<source>Millsho</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+			<feature>Tail hook</feature>
+		</features>
+		<jobs>
+			<job>Racing</job>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Boeing 314 Clipper</name>
+			<type>ME</type>
+			<cost>18000</cost>
+			<max_speed_knots>180</max_speed_knots>
+			<stall_speed_knots>85</stall_speed_knots>
+			<max_altitude_meters>6000</max_altitude_meters>
+			<max_altitude_feet>19680</max_altitude_feet>
+			<max_range_km>254</max_range_km>
+			<max_range_nm>137</max_range_nm>
+			<capacity>32</capacity>
+			<source>Augustus</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Republic XF-12 Rainbow</name>
+			<type>ME</type>
+			<cost>18200</cost>
+			<max_speed_knots>410</max_speed_knots>
+			<stall_speed_knots>90</stall_speed_knots>
+			<max_altitude_meters>13000</max_altitude_meters>
+			<max_altitude_feet>42640</max_altitude_feet>
+			<max_range_km>324</max_range_km>
+			<max_range_nm>175</max_range_nm>
+			<capacity>7</capacity>
+			<source>Eisen. AFB</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>Surveilance</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Convair B-36H Peacemaker</name>
+			<type>ME</type>
+			<cost>24600</cost>
+			<max_speed_knots>378</max_speed_knots>
+			<stall_speed_knots>120</stall_speed_knots>
+			<max_altitude_meters>13300</max_altitude_meters>
+			<max_altitude_feet>43624</max_altitude_feet>
+			<max_range_km>559</max_range_km>
+			<max_range_nm>302</max_range_nm>
+			<capacity>13</capacity>
+			<source>Norman</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Saunders-Roe SR.45 Princess</name>
+			<type>ME</type>
+			<cost>27900</cost>
+			<max_speed_knots>330</max_speed_knots>
+			<stall_speed_knots>98</stall_speed_knots>
+			<max_altitude_meters>12000</max_altitude_meters>
+			<max_altitude_feet>39360</max_altitude_feet>
+			<max_range_km>383</max_range_km>
+			<max_range_nm>207</max_range_nm>
+			<capacity>39</capacity>
+			<source>Rawaki</source>
+		</stats>
+		<features>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Tupolev Tu-95MS Bear-H</name>
+			<type>ME</type>
+			<cost>31000</cost>
+			<max_speed_knots>497</max_speed_knots>
+			<stall_speed_knots>120</stall_speed_knots>
+			<max_altitude_meters>13716</max_altitude_meters>
+			<max_altitude_feet>44989</max_altitude_feet>
+			<max_range_km>535</max_range_km>
+			<max_range_nm>289</max_range_nm>
+			<capacity>7</capacity>
+			<source>Novoaralsk</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Convair XC-99</name>
+			<type>ME</type>
+			<cost>35200</cost>
+			<max_speed_knots>267</max_speed_knots>
+			<stall_speed_knots>81</stall_speed_knots>
+			<max_altitude_meters>9150</max_altitude_meters>
+			<max_altitude_feet>30012</max_altitude_feet>
+			<max_range_km>485</max_range_km>
+			<max_range_nm>262</max_range_nm>
+			<capacity>50</capacity>
+			<source>Enoksen</source>
+		</stats>
+		<features>
+			<feature>Military</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Vought V-173</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>120</max_speed_knots>
+			<stall_speed_knots>65</stall_speed_knots>
+			<max_altitude_meters>8500</max_altitude_meters>
+			<max_altitude_feet>27880</max_altitude_feet>
+			<max_range_km>83</max_range_km>
+			<max_range_nm>45</max_range_nm>
+			<capacity>1</capacity>
+			<source>Craftable</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Wright Flyer</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>26</max_speed_knots>
+			<stall_speed_knots>15</stall_speed_knots>
+			<max_altitude_meters>21</max_altitude_meters>
+			<max_altitude_feet>69</max_altitude_feet>
+			<max_range_km>41</max_range_km>
+			<max_range_nm>22</max_range_nm>
+			<capacity>1</capacity>
+			<source>Craftable</source>
+		</stats>
+		<features></features>
+		<jobs></jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Bo-zone Plane</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>320</max_speed_knots>
+			<stall_speed_knots>92</stall_speed_knots>
+			<max_altitude_meters>12800</max_altitude_meters>
+			<max_altitude_feet>41984</max_altitude_feet>
+			<max_range_km>181</max_range_km>
+			<max_range_nm>98</max_range_nm>
+			<capacity>20</capacity>
+			<source>Limited Badge</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>De Havilland Sea Hornet F.20</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>421</max_speed_knots>
+			<stall_speed_knots>80</stall_speed_knots>
+			<max_altitude_meters>12600</max_altitude_meters>
+			<max_altitude_feet>41328</max_altitude_feet>
+			<max_range_km>224</max_range_km>
+			<max_range_nm>121</max_range_nm>
+			<capacity>1</capacity>
+			<source>Limited Badge</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Advanced customisation</feature>
+			<feature>Military</feature>
+			<feature>Tail hook</feature>
+		</features>
+		<jobs>
+			<job>pts wip</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Dornier Seastar</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>215</max_speed_knots>
+			<stall_speed_knots>65</stall_speed_knots>
+			<max_altitude_meters>4500</max_altitude_meters>
+			<max_altitude_feet>14760</max_altitude_feet>
+			<max_range_km>217</max_range_km>
+			<max_range_nm>117</max_range_nm>
+			<capacity>12</capacity>
+			<source>Limited Badge</source>
+		</stats>
+		<features>
+			<feature>Advanced Livery</feature>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+			<job>MSAR</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Tupolev ANT-28</name>
+			<type>ME</type>
+			<cost>14500</cost>
+			<max_speed_knots>160</max_speed_knots>
+			<stall_speed_knots>87</stall_speed_knots>
+			<max_altitude_meters>5600</max_altitude_meters>
+			<max_altitude_feet>18368</max_altitude_feet>
+			<max_range_km>111</max_range_km>
+			<max_range_nm>60</max_range_nm>
+			<capacity>35</capacity>
+			<source>Northiachev</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Hughes H-4 Hercules</name>
+			<type>ME</type>
+			<cost>n/a</cost>
+			<max_speed_knots>204</max_speed_knots>
+			<stall_speed_knots>70</stall_speed_knots>
+			<max_altitude_meters>6400</max_altitude_meters>
+			<max_altitude_feet>20992</max_altitude_feet>
+			<max_range_km>213</max_range_km>
+			<max_range_nm>115</max_range_nm>
+			<capacity>45</capacity>
+			<source>Craftable</source>
+		</stats>
+		<features>
+			<feature>Sea plane</feature>
+		</features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Eclipse 500</name>
+			<type>JET</type>
+			<cost>4200</cost>
+			<max_speed_knots>370</max_speed_knots>
+			<stall_speed_knots>69</stall_speed_knots>
+			<max_altitude_meters>12500</max_altitude_meters>
+			<max_altitude_feet>41000</max_altitude_feet>
+			<max_range_km>98</max_range_km>
+			<max_range_nm>53</max_range_nm>
+			<capacity>5</capacity>
+			<source>Ardmore</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Honda HA-420 HondaJet</name>
+			<type>JET</type>
+			<cost>5400</cost>
+			<max_speed_knots>422</max_speed_knots>
+			<stall_speed_knots>74</stall_speed_knots>
+			<max_altitude_meters>13000</max_altitude_meters>
+			<max_altitude_feet>42640</max_altitude_feet>
+			<max_range_km>128</max_range_km>
+			<max_range_nm>69</max_range_nm>
+			<capacity>6</capacity>
+			<source>Kashio</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Embraer Phenom 100</name>
+			<type>JET</type>
+			<cost>5600</cost>
+			<max_speed_knots>467</max_speed_knots>
+			<stall_speed_knots>73</stall_speed_knots>
+			<max_altitude_meters>12500</max_altitude_meters>
+			<max_altitude_feet>41000</max_altitude_feet>
+			<max_range_km>143</max_range_km>
+			<max_range_nm>77</max_range_nm>
+			<capacity>7</capacity>
+			<source>Ardmore</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Learjet 23</name>
+			<type>JET</type>
+			<cost>5800</cost>
+			<max_speed_knots>487</max_speed_knots>
+			<stall_speed_knots>90</stall_speed_knots>
+			<max_altitude_meters>14000</max_altitude_meters>
+			<max_altitude_feet>45920</max_altitude_feet>
+			<max_range_km>176</max_range_km>
+			<max_range_nm>95</max_range_nm>
+			<capacity>6</capacity>
+			<source>Norman</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Dassault Falcon 20</name>
+			<type>JET</type>
+			<cost>6100</cost>
+			<max_speed_knots>465</max_speed_knots>
+			<stall_speed_knots>96</stall_speed_knots>
+			<max_altitude_meters>12800</max_altitude_meters>
+			<max_altitude_feet>41984</max_altitude_feet>
+			<max_range_km>187</max_range_km>
+			<max_range_nm>101</max_range_nm>
+			<capacity>8</capacity>
+			<source>Oakport</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>charter</job>
+			<job>corporate</job>
+		</jobs>
+	</airplane>
+	<airplane>
+		<stats>
+			<name>Dassault Falcon 20F</name>
+			<type>JET</type>
+			<cost>n/a</cost>
+			<max_speed_knots>465</max_speed_knots>
+			<stall_speed_knots>96</stall_speed_knots>
+			<max_altitude_meters>12800</max_altitude_meters>
+			<max_altitude_feet>41984</max_altitude_feet>
+			<max_range_km>181</max_range_km>
+			<max_range_nm>98</max_range_nm>
+			<capacity>10</capacity>
+			<source>Cargo variant</source>
+		</stats>
+		<features></features>
+		<jobs>
+			<job>cargo</job>
+		</jobs>
+	</airplane>
+</root>
